@@ -39,6 +39,8 @@ improve_content: #https://github.com/Phlow/feeling-responsive/edit/gh-pages
 #
 urlimg: 'https://ctross.github.io/images/'
 
+image_folder: "assets/images2"
+default_feature_image: "assets/images2/default-header.jpg"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
