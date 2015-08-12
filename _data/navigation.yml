@@ -73,6 +73,12 @@
     url: "/art/closeddoors/"
   - title: "Burned Open"
     url: "/art/open/"
+  - title: "Dead Heros"
+    url: "/art/heros/"
+  - title: "Reclaiming Representation"
+    url: "/art/representation/"
+  - title: "Representing the Lost"
+    url: "/art/lost/"
 
 - title: Blog
   url: "/blog/"
