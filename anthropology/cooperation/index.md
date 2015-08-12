@@ -1,24 +1,10 @@
 ---
 layout: page
-#
-# Content
-#
-subheadline: ""
 title: "Cultural Group Selection and Cooperation"
-teaser: ""
-categories:
-  - 
-tags:
-  - 
-#
-# Styling
-#
-image: 
-    title:
-    thumb:
-    homepage:
-    caption:
-    caption_url:
+subheadline: 
+teaser: 
+header:
+    image_fullwidth: "header_drop.jpg"
 ---
 <div class="row">
 <div class="medium-8 columns t30">
