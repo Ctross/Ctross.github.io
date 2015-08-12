@@ -7,7 +7,11 @@ permalink: "/about-me/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-
+image:
+    thumb: "unsplash_2_thumb.jpg"
+    title: "unsplash_2.jpg"
+    caption: Unsplash.com
+    caption_url: http://unsplash.com
 
 ## I got inspired by...
 
