@@ -1,24 +1,10 @@
 ---
 layout: page
-#
-# Content
-#
-subheadline: ""
 title: "Parasite Prevalence and Structural Racism"
-teaser: ""
-categories:
-  - 
-tags:
-  - 
-#
-# Styling
-#
-image:
-    title:
-    thumb:
-    homepage:
-    caption:
-    caption_url:
+subheadline: 
+teaser: 
+header:
+    image_fullwidth: "header-parasites.jpg"
 ---
 <div class="row">
 <div class="medium-8 columns t30">
