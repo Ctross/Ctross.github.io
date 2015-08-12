@@ -5,6 +5,13 @@
 - title: About Me
   url: "/about-me/"
   side: left
+  dropdown:
+  - title: "Facebook"
+    url: "http://www.facebook.com/empyrean.imago"
+  - title: "Twitter"
+    url: "http://www.twitter.com/mindismoving"
+  - title: "Github"
+    url: "http://github.com/Ctross"
 
 - title: Ongoing Projects
   url: "/projects/"
