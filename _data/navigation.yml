@@ -18,25 +18,41 @@
     url: "/projects/polygyny/"
   - title: "Mapping Racial Bias in Police Violence"
     url: "/design/police/"
-
-- title: "Publications"
+    
+  - title: "Anthropology Publications"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "SNP‐Based Genomic Admixture Analysis of the CNPRC Rhesus Macaque Colony"
+  - title: "Cultural Change and the Transition to Sustainability"
+    url: "/pubs/sustain/"
+  - title: "Cultural Group Selection and Cooperation"
+    url: "/design/cooperation/"
+  - title: "Female Genital Modification in Colombia"
+    url: "/design/fgmocolombia/"
+  - title: "Parasite Prevalence and Structural Racism"
+    url: "/design/parasites/"
+  - title: "Food Storage and Population Dynamics"
+    url: "/design/storage/"
+  - title: "Agta Life-History Demographic Changes through Colonization"
+    url: "/design/agta/"
+
+- title: "Genetics Publications"
+  url: "/headers/"
+  side: left
+  dropdown:
+  - title: "Admixture Analysis of the CNPRC Rhesus Macaque Colony"
     url: "/pubs/admixture/"
   - title: "SNPs vs STRs for Relatedness Estimation"
     url: "/design/relatedness/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "Identifying Human-Rhesus Macaque Gene Orthologs"
+    url: "/design/orthologs/"
+  - title: "Candidate Genes for SIV Resistance"
+    url: "/design/siv/"
+  - title: "iNOS Regulatory Region Variation"
+    url: "/design/inos/"
+  - title: "New Frontiers in the Study of Gene-Culture Coevolution"
+    url: "/design/geneculture/"
+
 
 - title: Documentation
   url: "/documentation/"
