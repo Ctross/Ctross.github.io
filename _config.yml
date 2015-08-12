@@ -8,7 +8,7 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "The Creative Work of Cody T. Ross"
+title: "Mind is Moving"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -16,7 +16,7 @@ slogan: "Mind Is Moving"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»The Creative Work of Cody T. Ross« is the personal and professional website of Cody T. Ross."
+description: "»Mind is Moving« is the personal and professional website of Cody T. Ross."
 
 # Main author of the website
 # See > authors.yml
@@ -37,7 +37,7 @@ improve_content: #https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://ctross.github.io/images/'
 
 
 # Logo size is 600x80 pixels
