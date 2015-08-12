@@ -17,7 +17,7 @@
   - title: "Wealth, Inequality, and Polygyny"
     url: "/projects/polygyny/"
   - title: "Mapping Racial Bias in Police Violence"
-    url: "/design/police/"
+    url: "/projects/police/"
     
     
   - title: "Anthropology Publications"
@@ -25,17 +25,17 @@
   side: left
   dropdown:
   - title: "Cultural Change and the Transition to Sustainability"
-    url: "/pubs/sustain/"
+    url: "/anthropology/sustain/"
   - title: "Cultural Group Selection and Cooperation"
-    url: "/design/cooperation/"
+    url: "/anthropology/cooperation/"
   - title: "Female Genital Modification in Colombia"
-    url: "/design/fgmocolombia/"
+    url: "/anthropology/fgmocolombia/"
   - title: "Parasite Prevalence and Structural Racism"
-    url: "/design/parasites/"
+    url: "/anthropology/parasites/"
   - title: "Food Storage and Population Dynamics"
-    url: "/design/storage/"
+    url: "/anthropology/storage/"
   - title: "Agta Life-History Demographic Changes through Colonization"
-    url: "/design/agta/"
+    url: "/anthropology/agta/"
     
 
 - title: "Genetics Publications"
@@ -43,17 +43,17 @@
   side: left
   dropdown:
   - title: "Admixture Analysis of the CNPRC Rhesus Macaque Colony"
-    url: "/pubs/admixture/"
+    url: "/genetics/admixture/"
   - title: "SNPs vs STRs for Relatedness Estimation"
-    url: "/design/relatedness/"
+    url: "/genetics/relatedness/"
   - title: "Identifying Human-Rhesus Macaque Gene Orthologs"
-    url: "/design/orthologs/"
+    url: "/genetics/orthologs/"
   - title: "Candidate Genes for SIV Resistance"
-    url: "/design/siv/"
+    url: "/genetics/siv/"
   - title: "iNOS Regulatory Region Variation"
-    url: "/design/inos/"
+    url: "/genetics/inos/"
   - title: "New Frontiers in the Study of Gene-Culture Coevolution"
-    url: "/design/geneculture/"
+    url: "/genetics/geneculture/"
 
 
 - title: Documentation
