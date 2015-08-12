@@ -4,7 +4,7 @@ title: "Cultural Group Selection and Cooperation"
 subheadline: 
 teaser: 
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "header-cgs.jpg"
 ---
 <div class="row">
 <div class="medium-8 columns t30">
