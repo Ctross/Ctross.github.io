@@ -7,7 +7,6 @@ subheadline: ""
 title: "Cultural Group Selection and Cooperation"
 teaser: ""
 categories:
-header: image_fullwidth: "header_drop.jpg"
   - 
 tags:
   - 
