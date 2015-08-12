@@ -7,7 +7,7 @@
   side: left
 
 - title: "Ongoing Projects"
-  url: "/design/"
+  url: "/projects/"
   side: left
   dropdown:
   - title: "Social Learning and Chess"
@@ -19,8 +19,9 @@
   - title: "Mapping Racial Bias in Police Violence"
     url: "/design/police/"
     
+    
   - title: "Anthropology Publications"
-  url: "/headers/"
+  url: "/anthropology/"
   side: left
   dropdown:
   - title: "Cultural Change and the Transition to Sustainability"
@@ -35,9 +36,10 @@
     url: "/design/storage/"
   - title: "Agta Life-History Demographic Changes through Colonization"
     url: "/design/agta/"
+    
 
 - title: "Genetics Publications"
-  url: "/headers/"
+  url: "/genetics/"
   side: left
   dropdown:
   - title: "Admixture Analysis of the CNPRC Rhesus Macaque Colony"
