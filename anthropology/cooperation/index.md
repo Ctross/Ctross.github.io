@@ -33,6 +33,15 @@ Bibtex:
 }
 ```
 
+{{ "{% highlight latex linenos "}}%}
+@article{richerson2015cultural,
+  title={Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence},
+  author={Richerson, Peter and Baldini, Ryan and Bell, Adrian and Demps, Kathryn and Frost, Karl and Hillis, Vicken     and Mathew, Sarah and Newton, Emily and Narr, Nicole and Newson, Lesley and Ross, Cody, and others},
+  journal={Behavioral and Brain Sciences},
+  pages={1--71},
+  publisher={Cambridge Univ Press}
+}
+{{ "{% endhighlight "}}%}
 
  [1]: #
  [2]: #
