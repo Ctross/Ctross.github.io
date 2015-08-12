@@ -31,11 +31,11 @@ Read the paper online] or download the preprint [here][1].
 
 Bibtex:
 ```
-@article{richerson2015cultural,
+@article{ross2015FGMo,
   title={Cultural Evolution and the Interethnic Transfer of Female Genital Modification in the African Diaspora and Indigenous Populations of Colombia},
   author={Ross, Cody T and Joyas Campino, Patricia and Winterhalder, Bruce},
   journal={Human Nature},
-  pages={In Press},
+  pages={In Press}
 }
 ```
 
