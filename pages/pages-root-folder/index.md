@@ -21,7 +21,7 @@ widget3:
   title: "Computation, Modeling, and Statistics"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: 'All of the source code used in my publications is free and publically available. Make it your own and do with it what you want. Grab your copy or clone whole projects at GitHub. Let me know what you use it for via Twitter <a href="http://twitter.com/mindismoving">@mindismoving</a>.'
 permalink: /index.html
 ---
 
