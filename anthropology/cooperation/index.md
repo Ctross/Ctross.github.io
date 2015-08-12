@@ -40,5 +40,5 @@ Bibtex:
 }
 ```
 
- [1]: https://scholar.google.com.co/scholar?oi=bibs&cluster=12816428508393693408&btnI=1&hl=en
+ [1]: https://scholar.google.com.co/scholar?oi=bibs&hl=en&cluster=12816428508393693408
  
