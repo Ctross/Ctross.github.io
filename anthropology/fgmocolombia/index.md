@@ -1,16 +1,10 @@
 ---
 layout: page
-#
-# Content
-#
-subheadline: ""
 title: "Female Gential Modification in Colombia"
-teaser: ""
-categories:
-  - 
-tags:
-  - 
-
+subheadline: 
+teaser: 
+header:
+    image_fullwidth: "header-fgmo.jpg"
 ---
 <div class="row">
 <div class="medium-8 columns t30">
