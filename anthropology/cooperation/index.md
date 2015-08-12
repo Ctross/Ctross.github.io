@@ -21,7 +21,7 @@ image:
     caption_url:
 ---
 
-``` [latex] [Bibtex Citation] [https://scholar.google.com.co/scholar?oi=bibs&cluster=12816428508393693408&btnI=1&hl=en] [Google Scholar]
+```latex
 @article{richerson2015cultural,
   title={Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence},
   author={Richerson, Peter and Baldini, Ryan and Bell, Adrian and Demps, Kathryn and Frost, Karl and Hillis, Vicken and Mathew, Sarah and Newton, Emily and Narr, Nicole and Newson, Lesley and others},
