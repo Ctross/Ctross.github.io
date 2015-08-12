@@ -6,7 +6,7 @@
   url: "/about-me/"
   side: left
 
-- title: "Ongoing Projects"
+- title: Ongoing Projects
   url: "/projects/"
   side: left
   dropdown:
@@ -20,7 +20,7 @@
     url: "/projects/police/"
     
     
-  - title: "Anthropology Publications"
+  - title: Anthropology Publications
   url: "/anthropology/"
   side: left
   dropdown:
@@ -38,7 +38,7 @@
     url: "/anthropology/agta/"
     
 
-- title: "Genetics Publications"
+- title: Genetics Publications
   url: "/genetics/"
   side: left
   dropdown:
