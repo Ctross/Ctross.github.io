@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "About Mw"
+subheadline: 
+teaser: "I am a post-doctoral scholar working at the Sante Fe Institute and the University of California, Davis. I work on a variety of topics at the intersection of applied anthropology, social justice, cultural evolutionary dynamical models, and human behavioral ecololgy..."
 permalink: "/about-me/"
 header:
     image_fullwidth: "header_drop.jpg"
