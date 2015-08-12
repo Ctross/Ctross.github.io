@@ -13,7 +13,7 @@ tags:
 #
 # Styling
 #
-image: CGS.png
+image: 
     title:
     thumb:
     homepage:
