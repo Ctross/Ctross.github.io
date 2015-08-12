@@ -38,7 +38,7 @@ We find, contrary to Thornhill and Fincher, that parasite prevalence is positive
 Conclusions:
 We conclude that best practices in biocultural modeling require examining more than one hypothesis, retaining individual-level data and its associated variance whenever possible, and adopting multilevel techniques suited to the structuring of the data. 
 
-Read the paper [online][1]
+Read the paper [online][1] or download the preprint [here][2].
 
 Bibtex:
 ```
@@ -52,4 +52,5 @@ Bibtex:
 ```
 
  [1]: http://onlinelibrary.wiley.com/doi/10.1002/ajhb.22757/full
+ [2]: https://github.com/Ctross/ctross.github.io/blob/master/pdfs/AJHB-LatexPaper.pdf
  
