@@ -1,30 +1,12 @@
 ---
 layout: page
-title: "About Mw"
+title: "About Me"
 subheadline: 
-teaser: "I am a post-doctoral scholar working at the Sante Fe Institute and the University of California, Davis. I work on a variety of topics at the intersection of applied anthropology, social justice, cultural evolutionary dynamical models, and human behavioral ecololgy..."
+teaser: "I am a post-doctoral scholar working at the Sante Fe Institute and the University of California, Davis. I work on a variety of topics at the intersection of applied anthropology, social justice, dynamical modeling of cultural evolutionary processes, and human behavioral ecololgy..."
 permalink: "/about-me/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
-
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
-
-
-## Features
-
-* Responsive Gallery, Videos, Grid, Typography,...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-
 
 
 ## I got inspired by...
