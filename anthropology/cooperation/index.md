@@ -14,7 +14,7 @@ tags:
 # Styling
 #
 image:CGS.png
-    title:CGS
+    title:"CGS"
     thumb:
     homepage:
     caption:
