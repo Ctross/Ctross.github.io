@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "About"
 subheadline: "Why another Jekyll Theme?"
