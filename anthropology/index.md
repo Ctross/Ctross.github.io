@@ -29,8 +29,22 @@ image:
     thumb:
     caption:
     caption_url:
-
-Where does this text go?
-
+style:                      # Adding additional CSS-styles to <head>
+iframe: ""
+video:
+    embedURL: ""
+    contentURL: ""
+    thumbnailUrl: ""
+#
+# Metainformation & Customization
+#
+sidebar: left
+comments: true
+breadcrumb: true
+show_meta: false
+meta_title:             # SEO: Overwrites title in <head> if needed
+meta_description:
+permalink:
+tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 
