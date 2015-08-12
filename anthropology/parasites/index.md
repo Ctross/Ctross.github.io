@@ -25,6 +25,7 @@ image:
 <img src="{{ site.url }}/images/parasite.png" alt="">
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
+
 Objectives:
 We conduct a revaluation of the Thornhill and Fincher research project on parasites using finely-resolved geographic data on parasite prevalence, individual-level sociocultural data, and multilevel Bayesian modeling. In contrast to the evolutionary psychological mechanisms linking parasites to human behavior and cultural characteristics proposed by Thornhill and Fincher, we offer an alternative hypothesis that structural racism and differential access to sanitation systems drive both variation in parasite prevalence and differential behaviors and cultural characteristics.
 
