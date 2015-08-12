@@ -1,9 +1,10 @@
+---
 layout: page
 title: "Parasite Prevalence and Structural Racism"
 subheadline: 
 teaser: 
 header:
-    image_fullwidth: "header-fgmo.jpg"
+    image_fullwidth: "header-parasites.jpg"
 ---
 <div class="row">
 <div class="medium-8 columns t30">
