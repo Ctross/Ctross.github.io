@@ -13,8 +13,8 @@ header:
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.url }}/images/climb.jpg" alt="">
-      <img class="t30" src="{{ site.url }}/images/scuba.jpg" alt="">
+      <img src="{{ site.url }}/images/scuba.jpg" alt="">
+      <img class="t30" src="{{ site.url }}/images/climb.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
