@@ -13,8 +13,8 @@ tags:
 #
 # Styling
 #
-image:
-    title:
+image:CGS.png
+    title:CGS
     thumb:
     homepage:
     caption:
