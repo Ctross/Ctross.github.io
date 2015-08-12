@@ -65,6 +65,14 @@
   - title: "New Frontiers in the Study of Gene-Culture Coevolution"
     url: "/genetics/geneculture/"
 
+- title: Art
+  url: "/art/"
+  side: left
+  dropdown:
+  - title: "Closed Doors"
+    url: "/art/closeddoors/"
+  - title: "Burned Open"
+    url: "/art/open/"
 
 - title: Blog
   url: "/blog/"
