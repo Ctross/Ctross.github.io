@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: default_feature_image
 widget1:
   title: "Anthropology"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
