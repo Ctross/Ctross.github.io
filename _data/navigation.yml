@@ -36,7 +36,13 @@
     url: "/anthropology/storage/"
   - title: "Agta Life-History Demographic Changes through Colonization"
     url: "/anthropology/agta/"
-    
+  - title: "Adaptive Phylogenetic Modeling of Cultural Traits"
+    url: "/anthropology/oumodels/"
+  - title: "Mapping and Modeling Racial-Bias in Police Shootings"
+    url: "/anthropology/shoot/"
+  - title: "Sit-and-Wait vs Active Search Hunting"
+    url: "/anthropology/swas/"
+
 
 - title: Genetics Publications
   url: "/genetics/"
@@ -52,6 +58,8 @@
     url: "/genetics/siv/"
   - title: "iNOS Regulatory Region Variation"
     url: "/genetics/inos/"
+  - title: "Gene Expression and TB Pathogenesis"
+    url: "/genetics/tb/"
   - title: "New Frontiers in the Study of Gene-Culture Coevolution"
     url: "/genetics/geneculture/"
 
