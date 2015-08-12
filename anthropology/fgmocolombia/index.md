@@ -10,15 +10,7 @@ categories:
   - 
 tags:
   - 
-#
-# Styling
-#
-image:
-    title:
-    thumb:
-    homepage:
-    caption:
-    caption_url:
+
 ---
 <div class="row">
 <div class="medium-8 columns t30">
