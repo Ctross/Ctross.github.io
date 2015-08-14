@@ -6,14 +6,16 @@
   url: "/about-me/"
   side: left
   dropdown:
-  - title: "Facebook"
-    url: "http://www.facebook.com/empyrean.imago"
-  - title: "Twitter"
-    url: "http://www.twitter.com/mindismoving"
   - title: "Github"
     url: "http://github.com/Ctross"
   - title: "Google Scholar"
     url: "https://scholar.google.com.co/citations?user=xSugEskAAAAJ&hl=en"
+  - title: Sante Fe Institute
+    url: "http://www.santafe.edu/about/people/group/postdoctoral-fellow"
+  - title: "Facebook"
+    url: "http://www.facebook.com/empyrean.imago"
+  - title: "Twitter"
+    url: "http://www.twitter.com/mindismoving"
 
 - title: Ongoing Projects
   url: "/projects/"
