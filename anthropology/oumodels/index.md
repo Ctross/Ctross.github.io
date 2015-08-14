@@ -11,14 +11,16 @@ categories:
 tags:
   - 
 #
-# Styling
+# Metainformation & Customization
 #
-image: 
-    title:
-    thumb:
-    homepage:
-    caption:
-    caption_url:
+sidebar: left
+comments: true
+breadcrumb: true
+show_meta: false
+meta_title:             # SEO: Overwrites title in <head> if needed
+meta_description:
+permalink:
+tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 <div class="row">
 <div class="medium-8 columns t30">
