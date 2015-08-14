@@ -1,24 +1,10 @@
 ---
 layout: page
-#
-# Content
-#
-subheadline: ""
 title: "Food Storage and Population Dynamics"
-teaser: ""
-categories:
-  - 
-tags:
-  - 
-#
-# Styling
-#
-image:
-    title:
-    thumb:
-    homepage:
-    caption:
-    caption_url:
+subheadline: 
+teaser: 
+header:
+    image_fullwidth: "header-storage.jpg"
 ---
 <div class="row">
 <div class="medium-8 columns t30">
