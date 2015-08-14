@@ -12,7 +12,7 @@ sidebar:
 comments: true
 breadcrumb: true
 show_meta: false
-meta_title:             # SEO: Overwrites title in <head> if needed
+meta_title:           
 meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
