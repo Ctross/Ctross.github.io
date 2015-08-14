@@ -8,7 +8,7 @@ header:
 #
 # Metainformation & Customization
 #
-sidebar: left
+sidebar: 
 comments: true
 breadcrumb: true
 show_meta: false
