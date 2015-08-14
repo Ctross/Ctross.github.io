@@ -4,7 +4,7 @@ title: "Bayesian Analysis of Agta Demography Through the Transition from Foragin
 subheadline: 
 teaser: 
 header:
-    image_fullwidth: "header-cgs.jpg"
+    image_fullwidth: "header-agta.jpg"
 ---
 <div class="row">
 <div class="medium-8 columns t30">
