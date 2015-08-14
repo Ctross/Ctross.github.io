@@ -8,7 +8,7 @@
   dropdown:
   - title: "Google Scholar"
     url: "https://scholar.google.com.co/citations?user=xSugEskAAAAJ&hl=en"
-     - title: Sante Fe Institute
+  - title: Sante Fe Institute
     url: "http://www.santafe.edu/about/people/group/postdoctoral-fellow"
   - title: "Github"
     url: "http://github.com/Ctross"
