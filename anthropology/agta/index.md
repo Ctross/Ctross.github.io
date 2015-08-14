@@ -1,24 +1,10 @@
 ---
 layout: page
-#
-# Content
-#
-subheadline: ""
 title: "Bayesian Analysis of Agta Demography Through the Transition from Foraging to Landless Peasantry (Eastern Luzon, Philippines)"
-teaser: ""
-categories:
-  - 
-tags:
-  - 
-#
-# Styling
-#
-image: 
-    title:
-    thumb:
-    homepage:
-    caption:
-    caption_url:
+subheadline: 
+teaser: 
+header:
+    image_fullwidth: "header-cgs.jpg"
 ---
 <div class="row">
 <div class="medium-8 columns t30">
