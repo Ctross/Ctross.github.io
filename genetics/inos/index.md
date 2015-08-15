@@ -40,5 +40,5 @@ publisher={Elsevier}
 ```
 
 
- [1]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123624
- [2]: https://github.com/Ctross/ctross.github.io/blob/master/pdfs/SIV.pdf
+ [1]: http://www.sciencedirect.com/science/article/pii/S1567134815000192
+ [2]: https://github.com/Ctross/ctross.github.io/blob/master/pdfs/iNOSPreprint.pdf
