@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Candiate Genes for SIV Resistance"
+title: "iNOS Regulatory Region Variation"
 subheadline: 
 teaser: 
 header:
@@ -29,20 +29,13 @@ Read the paper [online][1] or download a preprint [here][2].
 Bibtex:
 ```
 @article{roodgar2015inducible,
-
-  title={Inducible nitric oxide synthase (iNOS) regulatory region variation in non-human primates},
-  
-  author={Roodgar, Morteza and Ross, Cody T and Kenyon, Nicholas J and Marcelino, Gretchen and Smith, David Glenn},
-  
-  journal={Infection, Genetics and Evolution},
-  
-  volume={31},
-  
-  pages={236--244},
-  
-  year={2015},
-  
-  publisher={Elsevier}
+title={Inducible nitric oxide synthase (iNOS) regulatory region variation in non-human primates},
+author={Roodgar, Morteza and Ross, Cody T and Kenyon, Nicholas J and Marcelino, Gretchen and Smith, David Glenn},
+journal={Infection, Genetics and Evolution},
+volume={31},
+pages={236--244},
+year={2015},
+publisher={Elsevier}
 }     
 ```
 
