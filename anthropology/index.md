@@ -47,4 +47,4 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
-Where does this text go?
+In the domain of quantititative social science, my work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology.  
