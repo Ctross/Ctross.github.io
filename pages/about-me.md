@@ -18,7 +18,6 @@ header:
     image:
     pattern:
     color:
-    background-color: "#fabb00"   # You must use ""
     title:
     caption:
     caption_url:
