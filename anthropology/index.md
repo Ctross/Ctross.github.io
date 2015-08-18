@@ -39,7 +39,7 @@ video:
 # Metainformation & Customization
 #
 sidebar: left
-comments: true
+comments: false
 breadcrumb: true
 show_meta: false
 meta_title:             # SEO: Overwrites title in <head> if needed
