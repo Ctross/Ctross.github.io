@@ -16,6 +16,7 @@ meta_title:             # SEO: Overwrites title in <head> if needed
 meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
+---
 <div class="row">
     <div class="medium-8 columns t30">
     <img src="{{ site.url }}/images/profilepic.jpg" alt="">
