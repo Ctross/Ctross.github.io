@@ -52,7 +52,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.url }}/images/scuba.jpg" alt="">
+      <img src="{{ site.url }}/images/profilepic.jpg" alt="">
       <img class="t30" src="{{ site.url }}/images/climb.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
@@ -66,16 +66,8 @@ Please make *Feeling Responsive* yours and if you like it, please link back to m
 
 #### Since then, fork it!
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+Yours sincerelly, [Moritz »mo.« Sauer][2]
 
 
  [1]: https://www.youtube.com/watch?v=4zZbX_9ru9U
  [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: #
- [9]: #
- [10]: #
