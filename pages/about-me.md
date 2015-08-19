@@ -14,7 +14,7 @@ tags:
 # Styling
 #
 header:
-    image_fullwidth: "header-drop.jpg"
+    image_fullwidth: "header_drop.jpg"
     image:
     pattern:
     color:
