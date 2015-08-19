@@ -1,29 +1,33 @@
 ---
 layout: page
-title:  "Header with a Full-Width-Image"
-subheadline:  "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
+sidebar: left
+subheadline: Templates
+title:  "Page/Post With Left Sidebar"
+teaser: "This is a example of page/post with a sidebar on the left."
+breadcrumb: true
+tags:
+    - post format
 categories:
     - design
-tags:
-    - design
-    - background color
-    - header
 image:
-   thumb: "unsplash_brooklyn-bridge_thumb.jpg"
-header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    title: "unsplash_1.jpg"
+    caption: Unsplash.com
+    caption_url: http://unsplash.com
 ---
-It's so easy to do. Just define in front matter your image.
+*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
 <!--more-->
 
-## Front Matter Code
+~~~
+show_meta: true
+~~~
+
+If you don't want to show metadata, it's simple again:
 
 ~~~
-header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+show_meta: false
 ~~~
+
+
+## Other Post Formats
+{: .t60 }
+{% include list-posts tag='post format' %}
