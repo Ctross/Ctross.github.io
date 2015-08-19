@@ -13,13 +13,12 @@ tags:
 #
 # Styling
 #
-header: no
 header:
     image_fullwidth:
     image:
     pattern:
     color:
-    background-color: "#fabb00"   # You must use ""
+    background-color: 
     title:
     caption:
     caption_url:
