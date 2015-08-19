@@ -1,33 +1,49 @@
 ---
 layout: page
-sidebar: left
-subheadline: Templates
-title:  "Page/Post With Left Sidebar"
-teaser: "This is a example of page/post with a sidebar on the left."
-breadcrumb: true
-tags:
-    - post format
+#
+# Content
+#
+subheadline: ""
+title: "Anthropology Publications"
+teaser: ""
 categories:
-    - design
+  - 
+tags:
+  - 
+#
+# Styling
+#
+header:
+    image_fullwidth: "header-cgs.jpg"
+    image:
+    pattern:
+    color:
+    background-color: 
+    title:
+    caption:
+    caption_url:
 image:
-    title: "unsplash_1.jpg"
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
----
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
-<!--more-->
-
-~~~
-show_meta: true
-~~~
-
-If you don't want to show metadata, it's simple again:
-
-~~~
+    title:
+    homepage:
+    thumb:
+    caption:
+    caption_url:
+style:                      # Adding additional CSS-styles to <head>
+iframe: ""
+video:
+    embedURL: ""
+    contentURL: ""
+    thumbnailUrl: ""
+#
+# Metainformation & Customization
+#
+sidebar: left
+comments: true
+breadcrumb: true
 show_meta: false
-~~~
-
-
-## Other Post Formats
-{: .t60 }
-{% include list-posts tag='post format' %}
+meta_title:             # SEO: Overwrites title in <head> if needed
+meta_description:
+permalink:
+tawkto: true               # Enable tawk.to-Service › More › _config.yml
+---
+In the domain of quantititative social science, my work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology.  
