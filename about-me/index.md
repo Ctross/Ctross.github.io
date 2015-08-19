@@ -38,7 +38,7 @@ video:
 # Metainformation & Customization
 #
 sidebar: left
-comments: true
+comments: 
 breadcrumb: true
 show_meta: false
 meta_title:             # SEO: Overwrites title in <head> if needed
@@ -48,7 +48,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.url }}/images/profilepic.jpg" alt="">
+    <img src="{{ site.url }}/images/scuba.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
@@ -60,7 +60,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
 ## I got inspired by...
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+Richard Feynman and his beautiful way of looking at the world through the eyes of a scientist, as demonstrated in his disscusion [Fun to Imagine][1], when I was young.  Feynman's way of seeing the world left me with a deep appreciation of the wonder and joy of existence, and the pleasure of thinking, learning, and imagining.  
 
 Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
 
@@ -69,7 +69,7 @@ Please make *Feeling Responsive* yours and if you like it, please link back to m
 Yours sincerelly, [Moritz »mo.« Sauer][7]
 
 
- [1]: http://mademistakes.com/about/
+ [1]: https://www.youtube.com/watch?v=4zZbX_9ru9U
  [2]: http://mademistakes.com/work/jekyll-themes/
  [3]: http://automattic.com/
  [4]: http://alistapart.com/
