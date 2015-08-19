@@ -27,10 +27,3 @@ header:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ~~~
-
-
-
-### All Header-Styles 
-{: .t60 }
-
-{% include list-posts tag='header' %}
