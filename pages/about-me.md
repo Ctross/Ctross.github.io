@@ -6,14 +6,19 @@ layout: page
 subheadline: ""
 title: "About Me"
 teaser: "I am a post-doctoral scholar working at the Sante Fe Institute and the University of California, Davis. I work on a variety of topics at the intersection of applied anthropology, social justice, dynamical modeling of cultural evolutionary processes, human behavioral ecology, genetics, and Bayesian statistical modeling..."
+categories:
+  - 
+tags:
+  - 
 #
 # Styling
 #
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "header-drop.jpg"
     image:
     pattern:
     color:
+    background-color: 
     title:
     caption:
     caption_url:
