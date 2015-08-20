@@ -53,8 +53,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
     <div class="medium-4 columns t30">
       <img src="{{ site.url }}/images/guitar.jpg" alt="">  
-      
-      
+      <>
       <img src="{{ site.url }}/images/brazil.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
