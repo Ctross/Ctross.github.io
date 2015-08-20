@@ -65,7 +65,6 @@ Richard Feynman and his beautiful way of looking at the world through the eyes o
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.url }}/images/arguileh.jpg" alt="">
     </div><!-- /.medium-8.columns -->
     
     <div class="medium-4 columns t30">
@@ -74,6 +73,11 @@ Richard Feynman and his beautiful way of looking at the world through the eyes o
     <div class="medium-4 columns t30">
       <img src="{{ site.url }}/images/colombia.jpg" alt="">
     </div><!-- /.medium-4.columns -->
+    
+    <div class="medium-8 columns t30">
+    <img src="{{ site.url }}/images/arguileh.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+    
 </div><!-- /.row -->
 
 The poltically and philosophically inspired comedy of [Bill Hicks][2] and [George Carlin][3], and the joyful random stand-up of [Mitch Hedberg][3] shaped my thoughts and personality in my teenage years, and their work has continued to inspire me.
