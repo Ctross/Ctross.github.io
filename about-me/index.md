@@ -52,16 +52,25 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.url }}/images/profilepic.jpg" alt="">
-      <img src="{{ site.url }}/images/climb.jpg" alt="">
+      <img src="{{ site.url }}/images/guitar.jpg" alt="">
+      <img src="{{ site.url }}/images/brazil.jpg" alt="">
     </div><!-- /.medium-4.columns -->
-
 </div><!-- /.row -->
 
 ## When I was young, I was inspired by...
 
 Richard Feynman and his beautiful way of looking at the world through the eyes of a scientist, especially his disscusion [Fun to Imagine][1].  Feynman's way of seeing the world left me with a deep appreciation of the wonder and joy of existence, and the pleasure of thinking, learning, and imagining.  
 
+<div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.url }}/images/scuba.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.url }}/images/guitar.jpg" alt="">
+      <img src="{{ site.url }}/images/brazil.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
 The poltically and philosophically inspired comedy of [Bill Hicks][2] and [George Carlin][3], and the joyful random stand-up of [Mitch Hedberg][3] shaped my thoughts and personality in my teenage years, and their work has continued to inspire me.
 
 [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Saul Williams][8],
