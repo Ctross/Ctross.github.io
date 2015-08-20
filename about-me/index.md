@@ -64,12 +64,14 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 Richard Feynman and his beautiful way of looking at the world through the eyes of a scientist, especially his disscusion [Fun to Imagine][1].  Feynman's way of seeing the world left me with a deep appreciation of the wonder and joy of existence, and the pleasure of thinking, learning, and imagining.  
 
 <div class="row">
+ <div class="medium-8 columns t30">
     <div class="medium-4 columns t30">
     <img src="{{ site.url }}/images/redpalace.jpg" alt="">  
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns t30">
     <img src="{{ site.url }}/images/colombia.jpg" alt="">
     </div><!-- /.medium-4.columns -->
+     </div><!-- /.medium-8.columns -->
     
     <div class="medium-8 columns t30">
     <img src="{{ site.url }}/images/arguileh.jpg" alt="">
