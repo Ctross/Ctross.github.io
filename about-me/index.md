@@ -52,8 +52,9 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img border="8" src="{{ site.url }}/images/guitar.jpg" alt="">  
-      <p style="clear:left;"></p>
+      <img src="{{ site.url }}/images/guitar.jpg" alt="">  
+    </div><!-- /.medium-4.columns -->
+    <div class="medium-4 columns t30">
       <img src="{{ site.url }}/images/brazil.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
