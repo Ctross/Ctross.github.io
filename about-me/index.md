@@ -72,7 +72,7 @@ Richard Feynman and his beautiful way of looking at the world through the eyes o
     </div><!-- /.medium-4.columns -->
     
     <div class="medium-8 columns t30">
-    <img src="{{ site.url }}/images/sunjpg" alt="">
+    <img src="{{ site.url }}/images/sun.jpg" alt="">
     </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 
