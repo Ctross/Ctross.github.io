@@ -84,12 +84,10 @@ The poltically and philosophically inspired comedy of [Bill Hicks][2] and [Georg
     <img src="{{ site.url }}/images/iceland.jpg" alt="">
     </div><!-- /.medium-8.columns -->
     
-    <div class="medium-4 columns t30">
+    <div class="medium-8 columns t30">
     <img src="{{ site.url }}/images/sun.jpg" alt="">  
-    </div><!-- /.medium-4.columns -->
-    <div class="medium-4 columns t30">
-    <img src="{{ site.url }}/images/climb.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
+    </div><!-- /.medium-8.columns -->
+
     
 </div><!-- /.row -->
 
