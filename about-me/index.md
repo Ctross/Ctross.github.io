@@ -102,7 +102,7 @@ The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceya
     </div><!-- /.medium-8.columns -->
     
     <div class="medium-4 columns t30">
-    <img src="{{ site.url }}/images/puente.jpg" alt="">  
+    <img src="{{ site.url }}/images/sun.jpg" alt="">  
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns t30">
     <img src="{{ site.url }}/images/climb2.jpg" alt="">  
@@ -111,6 +111,20 @@ The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceya
 </div><!-- /.row -->
 
 [Immortal Technique][11], [Lowkey][12], [Shadia Mansour][10], [Hassan Salaam][13], and  [Constant Flow][14], rap as hard as anything I've ever heard. 
+
+<div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.url }}/images/drysuit.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+    
+    <div class="medium-4 columns t30">
+    <img src="{{ site.url }}/images/bds.jpg" alt="">  
+    </div><!-- /.medium-4.columns -->
+    <div class="medium-4 columns t30">
+    <img src="{{ site.url }}/images/puente.jpg" alt="">  
+    </div><!-- /.medium-4.columns -->
+    
+</div><!-- /.row -->
 
 
  [1]: https://www.youtube.com/watch?v=4zZbX_9ru9U
