@@ -98,14 +98,14 @@ The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceya
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.url }}/images/iceland.jpg" alt="">
+    <img src="{{ site.url }}/images/drysuit.jpg" alt="">
     </div><!-- /.medium-8.columns -->
     
     <div class="medium-4 columns t30">
-    <img src="{{ site.url }}/images/korea.jpg" alt="">  
+    <img src="{{ site.url }}/images/climb2.jpg" alt="">  
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns t30">
-    <img src="{{ site.url }}/images/climb.jpg" alt="">  
+    <img src="{{ site.url }}/images/puente.jpg" alt="">  
     </div><!-- /.medium-4.columns -->
     
 </div><!-- /.row -->
