@@ -77,7 +77,7 @@ Richard Feynman and his beautiful way of looking at the world through the eyes o
     
 </div><!-- /.row -->
 
-The poltically and philosophically inspired comedy of [Bill Hicks][2] and [George Carlin][3], and the joyful random stand-up of [Mitch Hedberg][3] shaped my thoughts and personality in my teenage years, and their work has continued to inspire me.
+The poltically and philosophically inspired comedy of [Bill Hicks][2] and [George Carlin][3], and the joyful random stand-up of [Mitch Hedberg][3] shaped my thoughts and personality in my younger years, and their work and passionate angstjoy continues to inspire me.
 
 <div class="row">
     <div class="medium-8 columns t30">
@@ -93,7 +93,7 @@ The poltically and philosophically inspired comedy of [Bill Hicks][2] and [Georg
     
 </div><!-- /.row -->
 
-[Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Saul Williams][8],
+I love the poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], and [Saul Williams][8] give me chills.
 
 
 
