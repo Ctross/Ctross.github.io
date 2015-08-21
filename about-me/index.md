@@ -128,6 +128,20 @@ The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceya
 
 [Explosions in the Sky][16], [This Will Destroy You][17], [Midas Fall][18], and [Raised by Swans][19] make some beautifully melodic post-rock. [Tool][20], [Mudvayne][21], and [In Flames][22] have some of the most lyrically profound hard rock. [Radiohead][23], [Third Eye Blind][24], and [Counting Crows][25] somehow manage to make it into mainstream, despite remaining rich and full of stories and life. [VNV Nation][26] and [Assemblage 23][27] somehow merged deep and poetic vocals with a range of lush to agressive electronic music, creating an irreplaceable kind of art. 
 
+<div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.url }}/images/snake.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+    
+    <div class="medium-4 columns t30">
+    <img src="{{ site.url }}/images/skyline.jpg" alt="">  
+    </div><!-- /.medium-4.columns -->
+    <div class="medium-4 columns t30">
+    <img src="{{ site.url }}/images/puente.jpg" alt="">  
+    </div><!-- /.medium-4.columns -->
+    
+</div><!-- /.row -->
+
  [1]: https://www.youtube.com/watch?v=4zZbX_9ru9U
  [2]: https://www.youtube.com/watch?v=gG3TwjjfhBU
  [3]: https://www.youtube.com/watch?v=7W33HRc1A6c
