@@ -93,7 +93,7 @@ The poltically and philosophically inspired comedy of [Bill Hicks][2] and [Georg
     
 </div><!-- /.row -->
 
-The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceyann Chin][9] and [Saul Williams][8] gives me chills.
+The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceyann Chin][9], [Sage Fancis][15] and [Saul Williams][8] gives me chills.
 
 
 <div class="row">
@@ -127,3 +127,4 @@ The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceya
  [12]: http://www.youtube.com/watch?v=gSKbyMVWnpY&t=36m39s
  [13]: https://www.youtube.com/watch?v=_a7jdtqDqGY
  [14]: https://www.youtube.com/watch?v=RPdvk9VdoNg
+ [15]: https://www.youtube.com/watch?v=VvekEUR2GqI
