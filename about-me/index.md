@@ -93,11 +93,24 @@ The poltically and philosophically inspired comedy of [Bill Hicks][2] and [Georg
     
 </div><!-- /.row -->
 
-I love the poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], and [Saul Williams][8] give me chills.
+The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceyann Chin][9] and [Saul Williams][8] gives me chills.
 
 
+<div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.url }}/images/iceland.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+    
+    <div class="medium-4 columns t30">
+    <img src="{{ site.url }}/images/korea.jpg" alt="">  
+    </div><!-- /.medium-4.columns -->
+    <div class="medium-4 columns t30">
+    <img src="{{ site.url }}/images/climb.jpg" alt="">  
+    </div><!-- /.medium-4.columns -->
+    
+</div><!-- /.row -->
 
-
+[Immortal Technique][11], [Lowkey][12], [Shadia Mansour][10], [Hassan Salaam][13], and  [Constant Flow][14], rap as hard as anything I've ever heard. 
 
 
  [1]: https://www.youtube.com/watch?v=4zZbX_9ru9U
@@ -108,3 +121,9 @@ I love the poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], a
  [6]: https://www.youtube.com/watch?v=-objnLpZ5ko
  [7]: https://www.youtube.com/watch?v=tRn4A3K9VzE
  [8]: https://www.youtube.com/watch?v=jzY2-GRDiPM
+ [9]: https://www.youtube.com/watch?v=8t-ajU2defo
+ [10]: https://www.youtube.com/watch?v=21OXQ4m1-Bo
+ [11]: http://www.youtube.com/watch?v=BrQ1jsRYXtU&t=7m31s
+ [12]: http://www.youtube.com/watch?v=gSKbyMVWnpY&t=36m39s
+ [13]: https://www.youtube.com/watch?v=_a7jdtqDqGY
+ [14]: https://www.youtube.com/watch?v=RPdvk9VdoNg
