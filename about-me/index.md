@@ -126,6 +126,7 @@ The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceya
     
 </div><!-- /.row -->
 
+[Explosions in the Sky][16], [This Will Destroy You][17], [Midas Fall][18], and [Raised by Swans][19] make some beautifully melodic post-rock. [Tool][20], [Mudvayne][21], and [In Flames][22] have some of the most lyrically profound hard rock. [Radiohead][23], [Third Eye Blind][24], and [Counting Crows][25] somehow manage to make it into mainstream, despite remaining rich and full of stories and life. [VNV Nation][26] and [Assemblage 23][27] somehow merged deep and poetic vocals with a range of lush to agressive electronic music, creating an irreplaceable kind of art. 
 
  [1]: https://www.youtube.com/watch?v=4zZbX_9ru9U
  [2]: https://www.youtube.com/watch?v=gG3TwjjfhBU
@@ -142,3 +143,15 @@ The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceya
  [13]: https://www.youtube.com/watch?v=_a7jdtqDqGY
  [14]: https://www.youtube.com/watch?v=RPdvk9VdoNg
  [15]: https://www.youtube.com/watch?v=VvekEUR2GqI
+ [16]: https://www.youtube.com/watch?v=Ziw4yd5R0QI
+ [17]: https://www.youtube.com/watch?v=mYsbZbAKnAg
+ [18]: https://www.youtube.com/watch?v=K7MudAylG6c
+ [19]: https://www.youtube.com/watch?v=Fp1fRIKnpuA
+ [20]: https://www.youtube.com/watch?v=UhjG47gtMCo
+ [21]: https://www.youtube.com/watch?v=9nVvojfQVBY
+ [22]: https://www.youtube.com/watch?v=EJojO8gNunI
+ [23]: https://www.youtube.com/watch?v=8nTFjVm9sTQ
+ [24]: https://www.youtube.com/watch?v=_xk-nKh3t2Y
+ [25]: https://www.youtube.com/watch?v=Xdt58T366xw
+ [26]: https://www.youtube.com/watch?v=nc84Hx2RJMA
+ [27]: https://www.youtube.com/watch?v=GHs4d-LIGlY
