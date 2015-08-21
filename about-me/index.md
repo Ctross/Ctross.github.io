@@ -114,7 +114,7 @@ The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceya
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.url }}/images/drysuit.jpg" alt="">
+    <img src="{{ site.url }}/images/snake.jpg" alt="">
     </div><!-- /.medium-8.columns -->
     
     <div class="medium-4 columns t30">
