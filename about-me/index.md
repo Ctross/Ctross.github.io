@@ -126,7 +126,7 @@ I have long been a fan of poltically consiousious rap artists like [Immortal Tec
     
 </div><!-- /.row -->
 
-I am a big fan of melodic post-rock like [Explosions in the Sky][16], [This Will Destroy You][17], [Midas Fall][18], and [Raised by Swans][19], and art-rock like [Tool][20], [Mudvayne][21], and [In Flames][22]. Despite being mainstream, I love the music of [Radiohead][23], [Third Eye Blind][24], and [Counting Crows][25] becuase their songs are full of stories. In the domain of electornic, I don't think anything tops [VNV Nation][26] and [Assemblage 23][27], who have somehow merged deep and poetic vocals with a range of lush to agressive electronica, creating an irreplaceable kind of art. 
+I am a big fan of melodic post-rock like [Explosions in the Sky][16], [This Will Destroy You][17], [Midas Fall][18], and [Raised by Swans][19], and art-rock like [Tool][20], [Mudvayne][21], and [In Flames][22]. Despite being mainstream, I love the music of [Radiohead][23], [Third Eye Blind][24], and [Counting Crows][25] because their songs are full of stories. In the domain of electronic music, I don't think anything tops [VNV Nation][26] and [Assemblage 23][27], who have somehow merged deep and poetic vocals with a range of lush to agressive electronica, creating an irreplaceable kind of art. 
 
 <div class="row">
     <div class="medium-8 columns t30">
