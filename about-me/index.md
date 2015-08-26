@@ -93,7 +93,7 @@ The poltically and philosophically inspired comedy of [Bill Hicks][2] and [Georg
     
 </div><!-- /.row -->
 
-The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceyann Chin][9], [Sage Fancis][15] and [Saul Williams][8] gives me chills.
+I love the powerful poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceyann Chin][9], [Sage Fancis][15] and [Saul Williams][8].
 
 
 <div class="row">
@@ -110,7 +110,7 @@ The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceya
     
 </div><!-- /.row -->
 
-[Immortal Technique][11], [Lowkey][12], [Shadia Mansour][10], [Hassan Salaam][13], and  [Constant Flow][14], rap as hard as anything I've ever heard. 
+I have long been a fan of poltically consiousious rap artists like [Immortal Technique][11], [Lowkey][12], [Shadia Mansour][10], [Hassan Salaam][13], and [Constant Flow][14]. 
 
 <div class="row">
     <div class="medium-8 columns t30">
@@ -126,7 +126,7 @@ The poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black Ice][7], [Staceya
     
 </div><!-- /.row -->
 
-[Explosions in the Sky][16], [This Will Destroy You][17], [Midas Fall][18], and [Raised by Swans][19] make some beautifully melodic post-rock. [Tool][20], [Mudvayne][21], and [In Flames][22] have some of the most lyrically profound hard rock. [Radiohead][23], [Third Eye Blind][24], and [Counting Crows][25] somehow manage to make it into mainstream, despite remaining rich and full of stories and life. [VNV Nation][26] and [Assemblage 23][27] somehow merged deep and poetic vocals with a range of lush to agressive electronic music, creating an irreplaceable kind of art. 
+I am a big fan of melodic post-rock like [Explosions in the Sky][16], [This Will Destroy You][17], [Midas Fall][18], and [Raised by Swans][19], and art-rock like [Tool][20], [Mudvayne][21], and [In Flames][22]. Despite being mainstream, I love the music of [Radiohead][23], [Third Eye Blind][24], and [Counting Crows][25] becuase their songs are full of stories. In the domain of electornic, I don't think anything tops [VNV Nation][26] and [Assemblage 23][27], who have somehow merged deep and poetic vocals with a range of lush to agressive electronica, creating an irreplaceable kind of art. 
 
 <div class="row">
     <div class="medium-8 columns t30">
