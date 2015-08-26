@@ -130,14 +130,14 @@ I am a big fan of melodic post-rock like [Explosions in the Sky][16], [This Will
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.url }}/images/snake.jpg" alt="">
+    <img src="{{ site.url }}/images/sea.jpg" alt="">
     </div><!-- /.medium-8.columns -->
     
     <div class="medium-4 columns t30">
     <img src="{{ site.url }}/images/skyline.jpg" alt="">  
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns t30">
-    <img src="{{ site.url }}/images/puente.jpg" alt="">  
+    <img src="{{ site.url }}/images/tree.jpg" alt="">  
     </div><!-- /.medium-4.columns -->
     
 </div><!-- /.row -->
