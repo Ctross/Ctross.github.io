@@ -110,7 +110,7 @@ I love the powerful poetry of [Anis Mojgani][5],  [Buddy Wakefield][6], [Black I
     
 </div><!-- /.row -->
 
-I have long been a fan of poltically consiousious rap artists like [Immortal Technique][11], [Lowkey][12], [Shadia Mansour][10], [Hassan Salaam][13], and [Constant Flow][14]. 
+I have poltically consiousious rap artists like [Immortal Technique][11], [Lowkey][12], [Shadia Mansour][10], [Hassan Salaam][13], and [Constant Flow][14] on loop. 
 
 <div class="row">
     <div class="medium-8 columns t30">
