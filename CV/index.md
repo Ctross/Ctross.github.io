@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Curriculum Vitae"
@@ -10,7 +9,7 @@ header:
 # Metainformation & Customization
 #
 sidebar: 
-comments: false
+comments:
 breadcrumb: true
 show_meta: false
 meta_title:             # SEO: Overwrites title in <head> if needed
