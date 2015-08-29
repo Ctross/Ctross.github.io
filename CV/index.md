@@ -17,14 +17,10 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
-
-
- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <HTML>
 <HEAD>
 <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <META http-equiv="X-UA-Compatible" content="IE=8">
-<TITLE>Created by BCL easyConverter SDK 3 (HTML Version)</TITLE>
 <STYLE type="text/css">
 
 body {margin-top: 0px;margin-left: 0px;}
@@ -212,13 +208,6 @@ body {margin-top: 0px;margin-left: 0px;}
 </STYLE>
 </HEAD>
 
-<BODY>
-<DIV id="page_1">
-<DIV id="dimg1">
-<IMG src="CV_images/CV1x1.jpg" id="img1">
-</DIV>
-
-
 <DIV id="id_1">
 <DIV id="id_1_1">
 <P class="p0 ft0">Cody T. Ross</P>
@@ -276,10 +265,7 @@ body {margin-top: 0px;margin-left: 0px;}
 <P class="p3 ft17">2/6</P>
 </DIV>
 </DIV>
-<DIV id="page_3">
-<DIV id="dimg1">
-<IMG src="CV_images/CV3x1.jpg" id="img1">
-</DIV>
+
 
 
 <DIV id="id_1">
@@ -305,10 +291,7 @@ body {margin-top: 0px;margin-left: 0px;}
 <P class="p3 ft17">3/6</P>
 </DIV>
 </DIV>
-<DIV id="page_4">
-<DIV id="dimg1">
-<IMG src="CV_images/CV4x1.jpg" id="img1">
-</DIV>
+
 
 
 <DIV id="id_1">
@@ -334,10 +317,7 @@ body {margin-top: 0px;margin-left: 0px;}
 <P class="p3 ft17">4/6</P>
 </DIV>
 </DIV>
-<DIV id="page_5">
-<DIV id="dimg1">
-<IMG src="CV_images/CV5x1.jpg" id="img1">
-</DIV>
+
 
 
 <DIV id="id_1">
