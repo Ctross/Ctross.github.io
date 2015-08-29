@@ -1,3 +1,20 @@
+---
+layout: page
+#
+# Content
+#
+subheadline: ""
+title: ""
+teaser: ""
+#
+# Styling
+#
+header: no
+#
+# Metainformation & Customization
+#
+permalink:
+---
 <html>
 <head>
 <meta charset="utf-8">
