@@ -1,15 +1,10 @@
 ---
 layout: page
-#
-# Content
-#
-subheadline: ""
 title: "Adaptive Phylogenetic Modeling of Cultural Traits"
-teaser: ""
-categories:
-  - 
-tags:
-  - 
+subheadline: 
+teaser: 
+header:
+    image_fullwidth: "header-ou.jpg"
 #
 # Metainformation & Customization
 #
