@@ -141,6 +141,21 @@ I am a big fan of melodic post-rock like [Explosions in the Sky][16], [This Will
     </div><!-- /.medium-4.columns -->
     
 </div><!-- /.row -->
+Lastly, for visual arts, [Alex Grey][28] was hugely influential when I was younger. In recent years, I have come to love street artists like [Banksy][29], [DjLu][30], and the collective [Toxicomano][31]. 
+
+<div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.url }}/images/no.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+    
+    <div class="medium-4 columns t30">
+    <img src="{{ site.url }}/images/deadsea.jpg" alt="">  
+    </div><!-- /.medium-4.columns -->
+    <div class="medium-4 columns t30">
+    <img src="{{ site.url }}/images/hand.jpg" alt="">  
+    </div><!-- /.medium-4.columns -->
+    
+</div><!-- /.row -->
 
  [1]: https://www.youtube.com/watch?v=4zZbX_9ru9U
  [2]: https://www.youtube.com/watch?v=gG3TwjjfhBU
@@ -169,3 +184,7 @@ I am a big fan of melodic post-rock like [Explosions in the Sky][16], [This Will
  [25]: https://www.youtube.com/watch?v=Xdt58T366xw
  [26]: https://www.youtube.com/watch?v=nc84Hx2RJMA
  [27]: https://www.youtube.com/watch?v=GHs4d-LIGlY
+ [28]: http://alexgrey.com/
+ [29]: http://banksy.co.uk/
+ [30]: https://www.flickr.com/photos/juegasiempre/
+ [31]: https://www.facebook.com/toxicomano
