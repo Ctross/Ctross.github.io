@@ -53,7 +53,7 @@ N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T
 
 [2][2] <strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. In Review.
 
-[3][3] <strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change and the transition to sustainability. In<em>Global Environmental Change: The Handbook of Global Environmental Pollution. 
+[3][3] <strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change and the transition to sustainability. In Global Environmental Change: The Handbook of Global Environmental Pollution. 
 
 [4][4] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. In Review.
 
