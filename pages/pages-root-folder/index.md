@@ -14,9 +14,9 @@ widget1:
   text: 'A little bit about my research, hobbies, and interests...'
 widget2:
   title: "Publications"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: 'http://codytross.com/anthropology/'
   image: pubcover.jpg
-  text: 'I maintain a database of pre-prints, bibtex citations, and abstracts for all of my publications. Check them out here. Also, the homepage of each publication has a comments section for discussion, questions, or critiques.'
+  text: 'I maintain a database of pre-prints, BibTeX citations, and abstracts for all of my publications. Check them out <a href="http://codytross.com/anthropology/">here</a>.'. Also, the homepage of each publication has a comments section for discussion, questions, or critiques.'
 widget3:
   title: "Computation, Modeling, and Statistics"
   url: 'https://github.com/ctross'
