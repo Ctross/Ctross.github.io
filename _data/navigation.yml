@@ -33,8 +33,7 @@
     url: "/projects/police/"
   - title: "Social Justice and the Street Art of Colombia"
     url: "/projects/police/"
-    
-    
+  
 - title: Anthropology Publications
   url: "/anthropology/"
   side: left
@@ -53,7 +52,7 @@
     url: "/anthropology/oumodels/"
   - title: "Female Genital Modification in Colombia"
     url: "/anthropology/fgmocolombia/"
- - title: "Agta Life-History Demographic Changes through Colonization"
+  - title: "Agta Life-History Demographic Changes through Colonization"
     url: "/anthropology/agta/"
   - title: "Food Storage and Population Dynamics"
     url: "/anthropology/storage/"
