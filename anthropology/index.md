@@ -47,7 +47,7 @@ permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 
-<p>[1][[1]]Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,
+[1][[1]]<p>Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,
 N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M.
 (2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences.</p>
 
