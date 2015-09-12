@@ -29,8 +29,6 @@
     url: "/projects/slavery/"
   - title: "Wealth, Inequality, and Polygyny"
     url: "/projects/polygyny/"
-  - title: "Mapping Racial Bias in Police Violence"
-    url: "/projects/police/"
   - title: "Social Justice and the Street Art of Colombia"
     url: "/projects/police/"
   
@@ -46,7 +44,7 @@
     url: "/anthropology/sustain/"
   - title: "Mapping and Modeling Racial-Bias in Police Shootings"
     url: "/anthropology/shoot/"
-  - title: "On the Rates of Lethal and Racially-Biased Violence by Police"
+  - title: "On the Rates of Lethal and Racially Biased Violence by Police"
     ur:  "/anthropology/violence/"
   - title: "Adaptive Phylogenetic Modeling of Cultural Traits"
     url: "/anthropology/oumodels/"
