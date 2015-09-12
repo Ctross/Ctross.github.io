@@ -50,9 +50,11 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 [1][[1]] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,
 N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M.
 (2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences.
-
-<p><strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. In Review.</p>
 <p>&nbsp;</p>
+[2][[2]] <strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. In Review.
+
+<p>&nbsp;</p>
+
 <p><strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change</p>
 <p>and the transition to sustainability. In <em>Global Environmental Change: The Handbook of</em></p>
 <p><em>Global Environmental Pollution. </em></p>
@@ -89,6 +91,7 @@ N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T
 <p>sanitation infrastructure. American Journal of Human Biology.</p>
 
  [1]: http://codytross.com/anthropology/cooperation/
+ [2]: http://codytross.com/anthropology/psa/
 
 
 
