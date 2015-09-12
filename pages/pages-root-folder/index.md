@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "About Me"
-  url: 'https://github.com/ctross/about-me/'
+  url: 'http://codytross.com/about-me/'
   image: profilepic.jpg
   text: 'A little bit about me, where I have been, my research, hobbies, and interests...'
 widget2:
