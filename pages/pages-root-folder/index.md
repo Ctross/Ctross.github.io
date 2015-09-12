@@ -16,7 +16,7 @@ widget2:
   title: "Publications"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: pubcover.jpg
-  text: ''
+  text: 'I maintain a database of pre-prints, bibtex citations, and abstracts for all of my publications. Check them out here. Also, the homepage of each publication has a comments section for discussion, questions, or critiques.'
 widget3:
   title: "Computation, Modeling, and Statistics"
   url: 'https://github.com/ctross'
