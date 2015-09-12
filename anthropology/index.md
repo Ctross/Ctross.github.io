@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Anthropology Publications"
-teaser: ""
+teaser: "In the domain of quantititative social science, my work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology.  My research program more closely resembles a wide-ranging network of publications and ideas that are friends with each other, than a linear exploration of a single theme. I am most interested in colloboration, work on applied issues, and satisfying my own—often wandering—intellectual curiousities."
 categories:
   - 
 tags:
@@ -46,8 +46,12 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
-In the domain of quantititative social science, my work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology.  My research program more closely resembles a wide-ranging network of publications and ideas that are friends with each other, than a linear exploration of a single theme. I am most interested in colloboration, work on applied issues, and satisfying my own—often wandering—intellectual curiousities.
 
+<p> <a href=" http://codytross.com/anthropology/sustain/">[1]</a> Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,</p>
+<p>N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M.</p>
+<p>(2015). Cultural group selection plays an essential role in explaining human cooperation:</p>
+<p>A sketch of the evidence. Behavioral and Brain Sciences.</p>
+<p>&nbsp;</p>
 <p><strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. In Review.</p>
 <p>&nbsp;</p>
 <p><strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change</p>
@@ -84,9 +88,6 @@ In the domain of quantititative social science, my work often centers around the
 <p><strong>Ross, C.T.</strong>, and Winterhalder, B. (2015). A hierarchical Bayesian analysis of parasite</p>
 <p>prevalence and socio-cultural outcomes: The mediating role of structural racism and</p>
 <p>sanitation infrastructure. American Journal of Human Biology.</p>
-<p>&nbsp;</p>
-<p>Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,</p>
-<p>N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M.</p>
-<p>(2015). Cultural group selection plays an essential role in explaining human cooperation:</p>
-<p>A sketch of the evidence. Behavioral and Brain Sciences.</p>
+
+
 
