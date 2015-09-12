@@ -47,7 +47,7 @@ permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 
-[1][1] <strong>Ross, C.T.</strong>, and Richerson, P.J.(2014). New frontiers in the study of human cultural and
+[1][1] <strong>Ross, C.T.</strong>, and Richerson, P.J. (2014). New frontiers in the study of human cultural and
 genetic evolution. Current Opinion in Genetics and Development.
 
 [2][2] <strong>Ross, C.T.</strong>, Roodgar, M., and Smith, D.G. (2015). Evolutionary distance of amino acid

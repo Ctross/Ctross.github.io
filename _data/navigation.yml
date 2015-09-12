@@ -63,20 +63,22 @@
   url: "/genetics/"
   side: left
   dropdown:
-  - title: "Admixture Analysis of the CNPRC Rhesus Macaque Colony"
-    url: "/genetics/admixture/"
-  - title: "SNPs vs STRs for Relatedness Estimation"
-    url: "/genetics/relatedness/"
-  - title: "Identifying Human-Rhesus Macaque Gene Orthologs"
-    url: "/genetics/orthologs/"
+  - title: "New Frontiers in the Study of Gene-Culture Coevolution"
+    url: "/genetics/geneculture/"
   - title: "Candidate Genes for SIV Resistance"
     url: "/genetics/siv/"
   - title: "iNOS Regulatory Region Variation"
     url: "/genetics/inos/"
   - title: "Gene Expression and TB Pathogenesis"
     url: "/genetics/tb/"
-  - title: "New Frontiers in the Study of Gene-Culture Coevolution"
-    url: "/genetics/geneculture/"
+  - title: "SNPs vs STRs for Relatedness Estimation"
+    url: "/genetics/relatedness/"
+  - title: "Identifying Human-Rhesus Macaque Gene Orthologs"
+    url: "/genetics/orthologs/"
+  - title: "Admixture Analysis of the CNPRC Rhesus Macaque Colony"
+    url: "/genetics/admixture/"
+
+
 
 - title: Art
   url: "/art/"
