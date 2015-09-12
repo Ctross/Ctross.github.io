@@ -10,7 +10,7 @@ header:
 widget1:
   title: "About Me"
   url: 'http://codytross.com/about-me/'
-  image: profilepic.jpg
+  image: profilepicSmall.jpg
   text: 'A little bit about me, where I have been, my research, hobbies, and interests...'
 widget2:
   title: "Art"
