@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Genetics Publications"
-teaser: "In the domain of genetics, I work on issues related to immunogenetics, primate colony management, and gene-culture coevolution. Most of my work is in collaboration with the Molecular Anthropology Laboratory at UC DAvis."
+teaser: "In the domain of genetics, I work on issues related to immunogenetics, primate colony management, and gene-culture coevolution. Most of my work is in collaboration with the Molecular Anthropology Laboratory at UC Davis."
 categories:
   - 
 tags:
