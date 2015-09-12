@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Anthropology"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: unsplash_9-302x182.jpg
-  text: 'What do anthropologists do?'
+  title: "About Me"
+  url: 'https://github.com/ctross/about-me/'
+  image: profilepic.jpg
+  text: 'A little bit about me, where I have been, my research, hobbies, and interests...'
 widget2:
   title: "Art"
   url: 'http://phlow.github.io/feeling-responsive/info/'
