@@ -11,7 +11,7 @@ widget1:
   title: "About Me"
   url: 'http://codytross.com/about-me/'
   image: profilepicSmall.jpg
-  text: 'A little bit about my research, hobbies, and interests...'
+  text: 'A little bit about my research, travels, hobbies, and interests.'
 widget2:
   title: "Computation, Modeling, and Statistics"
   url: 'https://github.com/ctross'
