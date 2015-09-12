@@ -55,20 +55,14 @@ N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T
 
 [3][3] <strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change and the transition to sustainability. In <em>Global Environmental Change: The Handbook of Global Environmental Pollution. 
 
-<p><strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at</p>
-<p>the County-Level in the United States, 2011-2014. PLOS One. In Review.</p>
-<p>&nbsp;</p>
-<p><strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased</p>
-<p>violence by police in the United States requires geographically-resolved data and</p>
-<p>analysis. Sociological Forum. In Review.</p>
-<p>&nbsp;</p>
-<p><strong>Ross, C.T.</strong>, and Winterhalder, B. (20015). Sit-and-wait versus active search hunting: A</p>
-<p>behavioral ecological model of hunting strategies. Journal of Theoretical Biology. In Review.</p>
-<p>&nbsp;</p>
-<p><strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K.</p>
-<p>(2015). Adaptive phylogenetic modeling of cultural traits: The origins and maintenance</p>
-<p>of female genital modification. Human Nature. In Review.</p>
-<p>&nbsp;</p>
+[4][4] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. In Review.
+
+[5][5] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. In Review.
+
+[6][6] <strong>Ross, C.T.</strong>, and Winterhalder, B. (20015). Sit-and-wait versus active search hunting: A behavioral ecological model of hunting strategies. Journal of Theoretical Biology. In Review.
+
+[7][7] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). Adaptive phylogenetic modeling of cultural traits: The origins and maintenance of female genital modification. Human Nature. In Review.
+
 <p><strong>Ross, C.T.</strong>, Joyas Campino, P., and Winterhalder, B. (2015). Inter-ethnic transfer and</p>
 <p>cultural evolution of female genital modification in the African diaspora and Indigenous</p>
 <p>populations of Colombia. Human Nature.</p>
@@ -89,6 +83,8 @@ N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T
  [1]: http://codytross.com/anthropology/cooperation/
  [2]: http://codytross.com/anthropology/psa/
  [3]: http://codytross.com/anthropology/sustain/
+  [3]: http://codytross.com/anthropology/sustain/
+   [3]: http://codytross.com/anthropology/sustain/
 
 
 
