@@ -47,11 +47,10 @@ permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 
-<p> <a href=" http://codytross.com/anthropology/sustain/">[1]</a> Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,</p>
-<p>N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M.</p>
-<p>(2015). Cultural group selection plays an essential role in explaining human cooperation:</p>
-<p>A sketch of the evidence. Behavioral and Brain Sciences.</p>
-<p>&nbsp;</p>
+[1][[1]]Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,
+N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M.
+(2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences.
+
 <p><strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. In Review.</p>
 <p>&nbsp;</p>
 <p><strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change</p>
@@ -88,6 +87,8 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 <p><strong>Ross, C.T.</strong>, and Winterhalder, B. (2015). A hierarchical Bayesian analysis of parasite</p>
 <p>prevalence and socio-cultural outcomes: The mediating role of structural racism and</p>
 <p>sanitation infrastructure. American Journal of Human Biology.</p>
+
+ [1]: http://codytross.com/anthropology/cooperation/
 
 
 
