@@ -14,7 +14,7 @@ tags:
 # Styling
 #
 header:
-    image_fullwidth: "header-cgs.jpg"
+    image_fullwidth: "header-anthro.jpg"
     image:
     pattern:
     color:
