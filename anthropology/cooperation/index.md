@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-cgs.jpg"
+    caption: 'Vancoover, British Columbia, Canada'
 #
 # Metainformation & Customization
 #
