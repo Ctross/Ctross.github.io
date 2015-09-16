@@ -21,6 +21,6 @@ widget3:
   title: "Publications"
   url: 'http://codytross.com/anthropology/'
   image: pubcover.jpg
-  text: 'I maintain a database of pre-prints, BibTeX citations, and abstracts for all of my publications. My anthropology-related publications are <a href="http://codytross.com/anthropology/">here</a> and my genetics-related papers are <a href="http://codytross.com/genetics/">here</a>. Also, the homepage of each publication has a comments section for discussion, questions, or critiques. Feel free to start a discussion.'
+  text: 'I maintain a database of pre-prints (to download the PDFs, just click "Raw", after opening the preprint in the GitHub browser), BibTeX citations, and abstracts for all of my publications. My anthropology-related publications are <a href="http://codytross.com/anthropology/">here</a> and my genetics-related papers are <a href="http://codytross.com/genetics/">here</a>. Also, the homepage of each publication has a comments section for discussion, questions, or critiques. Feel free to start a discussion.'
 permalink: index.html
 ---
