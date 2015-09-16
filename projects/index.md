@@ -20,7 +20,7 @@ header:
     color:
     background-color: 
     title:
-    caption:Test 123
+    caption:"Test 123"
     caption_url:
 image:
     title:
