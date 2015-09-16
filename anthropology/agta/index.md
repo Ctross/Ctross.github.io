@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-agta.jpg"
+    caption: 'Street art in Chapinero, Bogota, Colombia'
 #
 # Metainformation & Customization
 #
