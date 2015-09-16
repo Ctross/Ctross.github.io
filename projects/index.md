@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Ongoing Projects"
-teaser: "I am currently working on a few projects related to wealth, wealth inequality, and socio-cultural outcomes through the Santa Fe Institute. "
+teaser: "I am currently working on a few projects cross-cultural projects related to wealth, wealth inequality, and socio-cultural outcomes through the Santa Fe Institute. In addition, I am working on a variety of collaborative projects, falling loosely under the umbrellas of human behavioral ecology and/or cultural evolution."
 categories:
   - 
 tags:
@@ -20,7 +20,7 @@ header:
     color:
     background-color: 
     title:
-    caption: "Test 123"
+    caption: 
     caption_url:
 image:
     title:
@@ -47,29 +47,18 @@ permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 
-[1][1] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,
-N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M.
-(2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences.
-
-[2][2] <strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. In Review.
-
-[3][3] <strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change and the transition to sustainability. In Global Environmental Change: The Handbook of Global Environmental Pollution. 
-
-[4][4] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. In Review.
-
-[5][5] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. In Review.
-
-[6][6] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). Adaptive phylogenetic modeling of cultural traits: The origins and maintenance of female genital modification. Human Nature. In Review.
-
-[7][7] <strong>Ross, C.T.</strong>, Joyas Campino, P., and Winterhalder, B. (2015). Inter-ethnic transfer and cultural evolution of female genital modification in the African diaspora and Indigenous populations of Colombia. Human Nature.
-
-[8][8] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Winterhalder, B., Uehara, R., Headland, J., and Headland, T. (2015). Bayesian analysis of Agta demography through the transition from foragers to landless peasantry (eastern Luzon, Philippines). Evolution and Human Behavior. In Review.
-
-[9][9] Winterhalder, B., Puleston, C., and <strong>Ross, C.T. </strong>(2015). Production risk, inter-annual food storage by households, and population-level consequences in prehistoric agrarian societies. Environmental Archaeology: The Journal of Human Palaeoecology.
-
-[10][10] <strong>Ross, C.T.</strong>, and Winterhalder, B. (20015). Sit-and-wait versus active search hunting: A behavioral ecological model of hunting strategies. Journal of Theoretical Biology. In Review.
-
-[11][11] <strong>Ross, C.T.</strong>, and Winterhalder, B. (2015). A hierarchical Bayesian analysis of parasite prevalence and socio-cultural outcomes: The mediating role of structural racism and sanitation infrastructure. American Journal of Human Biology.
+[IP1][1] <strong>Ross, C.T.</strong> and Beheim, B. The Cultural Evolution of Chess Strategy.
+[IP2][2] <strong>Ross, C.T.</strong>, and Frost, K. Rethinking the presentation of data in the CDC-NCHHSTP HIV/STD Atlas: Multi-level Bayesian models can improve inference on STD prevalence and better ensure the anonymity of individual-level data. 
+[IP3][3] Blackwell, A., and <strong>Ross, C.T.</strong>. Modeling the ecological and demographic conditions underlying martyrdom: A mathematical model of perceived inclusive ﬁtness outcomes via self-sacriﬁce. 
+[IP4][4] <strong>Ross, C.T.</strong>, Grote, M. and Winterhalder, B. A Bayesian analysis of spatial and temporal variation in Medieval English cereal yields with implications for models of agrarian social development and resilience. In Progress.
+[IP5][5] <strong>Ross, C.T.</strong>, Grote, M. and Winterhalder, B. A time series Bayesian network linking ecology, population, and political economy in agrarian England, 1280-1400. In Progress.
+[IP6][6] <strong>Ross, C.T.</strong>, Winterhalder, B., Kennett, D. Grote, M. and Bartruﬀ, J. Ideal free prehistoric settlement of the Northern Channel Islands: A spatially explicit Bayesian analysis of settlement patterning. In Progress.
+[IP7][7] <strong>Ross, C.T.</strong> The rise and persistence of Somali piracy: An approach to policy rooted in human behavioral ecological modeling. In Progress.
+[IP8][8] <strong>Ross, C.T.</strong> An Econometeric Analysis of Wealth Transmission from Slaves to Slave-Owners and the Inter-Generational Persistence of Injustice. In Progress.
+[IP9][9] <strong>Ross, C.T.</strong>, Oh, S.Y., Borgerhoﬀ Mulder, M., and Bowles, S. The Polygyny Threshold in the Context of Rival and Non-Rival Wealth: A Case Study of Kipsigis Agropastoralists. In Progress.
+[IP10][10] Oh, S.Y., Bowles, S., Borgerhoﬀ Mulder, M., and <strong>Ross, C.T.</strong> The decline of polygyny: An interpretation. In Progress.
+[IP11][11] Schacht, R. and <strong>Ross, C.T.</strong> Partner Preferences in the Makushi: A Bayesian l-1
+Regularization Approach to Analysis of Multi-dimensional Likert-scale Data. In Progress.
 
  [1]: http://codytross.com/anthropology/cooperation/
  [2]: http://codytross.com/anthropology/psa/
