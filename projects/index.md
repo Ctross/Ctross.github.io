@@ -70,7 +70,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 [IP11][11] Schacht, R. and <strong>Ross, C.T.</strong> Partner Preferences in the Makushi: A Bayesian l-1
 Regularization Approach to Analysis of Multi-dimensional Likert-scale Data. In Progress.
 
- [1]: http://codytross.com/anthropology/cooperation/
+ [1]: http://codytross.com/anthropology/chess/
  [2]: http://codytross.com/anthropology/psa/
  [3]: http://codytross.com/anthropology/sustain/
  [4]: http://codytross.com/anthropology/shoot/
