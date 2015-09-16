@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Ongoing Projects"
-teaser: "In the domain of quantititative social science, my work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology.  My research program more closely resembles a wide-ranging network of publications and ideas that are friends with each other, than a linear exploration of a single theme. I am interested in colloboration, work on applied issues, and satisfying my own—often wandering—intellectual curiousities."
+teaser: "I am currently working on a few projects related to wealth, wealth inequality, and socio-cultural outcomes through the Santa Fe Institute. "
 categories:
   - 
 tags:
