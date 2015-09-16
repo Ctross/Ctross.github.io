@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Ongoing Projects"
-teaser: "I am currently working on a few projects cross-cultural projects related to wealth, wealth inequality, and socio-cultural outcomes through the Santa Fe Institute. In addition, I am working on a variety of collaborative projects, falling loosely under the umbrellas of human behavioral ecology and/or cultural evolution."
+teaser: "I am currently working on a few cross-cultural projects related to wealth, wealth inequality, and socio-cultural outcomes through the Santa Fe Institute. In addition, I am working on a variety of collaborative projects, falling loosely under the umbrellas of human behavioral ecology and/or cultural evolution."
 categories:
   - 
 tags:
