@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-shoot.jpg"
+    caption: 'Street art, Bogota, Colombia'
 #
 # Metainformation & Customization
 #
