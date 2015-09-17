@@ -30,13 +30,13 @@ for cultural evolution was based primarily on mathematical models
 [2, 3], simulation [4], short-term experimental evidence [5, 6, 7], and verbal
 arguments [8, 9]. Quantitative analysis of cultural evolution through
 social and prestige-biased learning in natural environments was hampered
-by the lack of nely-resolved, individual-level data on human behavior over
+by the lack of finely-resolved, individual-level data on human behavior over
 long courses of time. Interestingly, strategy games such as Go and Chess
 have risen to such a level of cultural importance, that the project of voluntarily
 recording massive amounts of longitudinal data has been completed
-already by game acionados. These data permit the application of annuallyresolved
+already by game aficionados. These data permit the application of annually-resolved
 time-series analysis to the evolutionary dynamics of game playing
-behavior, and allow for the eects of individual learning, social learning, and
+behavior, and allow for the effects of individual learning, social learning, and
 prestige-biased learning to be analyzed in a unied framework. This paper
 will examine evidence regarding the use of these learning strategies in the
 selection of Chess opening moves, over the period of time from 1975 to 2013,
