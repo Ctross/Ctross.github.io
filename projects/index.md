@@ -70,14 +70,14 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 [IP11][11] Schacht, R. and <strong>Ross, C.T.</strong> Partner Preferences in the Makushi: A Bayesian l-1
 Regularization Approach to Analysis of Multi-dimensional Likert-scale Data. In Progress.
 
- [1]: http://codytross.com/anthropology/chess/
- [2]: http://codytross.com/anthropology/psa/
- [3]: http://codytross.com/anthropology/sustain/
- [4]: http://codytross.com/anthropology/shoot/
- [5]: http://codytross.com/anthropology/violence/
- [6]: http://codytross.com/anthropology/oumodels/
- [7]: http://codytross.com/anthropology/fgmocolombia/
- [8]: http://codytross.com/anthropology/agta/
- [9]: http://codytross.com/anthropology/storage/
- [10]: http://codytross.com/anthropology/swas/
- [11]: http://codytross.com/anthropology/parasites/
+ [1]: http://codytross.com/projects/chess/
+ [2]: http://codytross.com/projects/psa/
+ [3]: http://codytross.com/projects/sustain/
+ [4]: http://codytross.com/projects/shoot/
+ [5]: http://codytross.com/projects/violence/
+ [6]: http://codytross.com/projects/oumodels/
+ [7]: http://codytross.com/projects/fgmocolombia/
+ [8]: http://codytross.com/projects/agta/
+ [9]: http://codytross.com/projects/storage/
+ [10]: http://codytross.com/projects/swas/
+ [11]: http://codytross.com/projects/parasites/
