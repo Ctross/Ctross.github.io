@@ -20,7 +20,7 @@ header:
     color:
     background-color: 
     title:
-    caption:
+    caption: 'Sunset on the Amazon, Brazil'
     caption_url:
 image:
     title:
