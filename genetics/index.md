@@ -20,7 +20,7 @@ header:
     color:
     background-color: 
     title:
-    caption:
+    caption: 'Street art, Universidad Nacional de Colombia, Bogota'
     caption_url:
 image:
     title:
