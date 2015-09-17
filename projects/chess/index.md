@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "On the Rates of Lethal and Racially-Biased Violence by Police"
+title: "The Cultural Evolution of Chess Strategy"
 subheadline: 
 teaser: 
 header:
