@@ -51,7 +51,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
 [IP2][2] <strong>Ross, C.T.</strong>, and Frost, K. Rethinking the presentation of data in the CDC-NCHHSTP HIV/STD Atlas: Multi-level Bayesian models can improve inference on STD prevalence and better ensure the anonymity of individual-level data. 
 
-[IP3][3] Blackwell, A., and <strong>Ross, C.T.</strong>. Modeling the ecological and demographic conditions underlying martyrdom: A mathematical model of perceived inclusive ﬁtness outcomes via self-sacriﬁce. 
+IP3 Blackwell, A., and <strong>Ross, C.T.</strong>. Modeling the ecological and demographic conditions underlying martyrdom: A mathematical model of perceived inclusive ﬁtness outcomes via self-sacriﬁce. 
 
 [IP4][4] <strong>Ross, C.T.</strong>, Grote, M. and Winterhalder, B. A Bayesian analysis of spatial and temporal variation in Medieval English cereal yields with implications for models of agrarian social development and resilience. In Progress.
 
@@ -71,7 +71,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 Regularization Approach to Analysis of Multi-dimensional Likert-scale Data. In Progress.
 
  [1]: http://codytross.com/projects/chess/
- [2]: http://codytross.com/projects/psa/
+ [2]: http://codytross.com/projects/std/
  [3]: http://codytross.com/projects/sustain/
  [4]: http://codytross.com/projects/shoot/
  [5]: http://codytross.com/projects/violence/
