@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-swas.jpg"
+    caption: 'Mediterranean chameleon, Lebanon'
 #
 # Metainformation & Customization
 #

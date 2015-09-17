@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-fgmo.jpg"
+    caption: 'Amazon river at sunset, Amazonas, Brazil'
 #
 # Metainformation & Customization
 #

@@ -20,7 +20,7 @@ header:
     color:
     background-color: 
     title:
-    caption:
+    caption: 'Street art, Bogota, Colombia'
     caption_url:
 image:
     title:

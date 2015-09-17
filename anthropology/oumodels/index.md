@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-ou.jpg"
+    caption: 'Beirut waterfront at sunset, Lebanon'
 #
 # Metainformation & Customization
 #

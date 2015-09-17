@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
+  caption: 'Street art in Chapinero, Bogota, Colombia'
 widget1:
   title: "About Me"
   url: 'http://codytross.com/about-me/'

@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-psa.jpg"
+    caption: 'Timber plantation, Costa Rica'
 #
 # Metainformation & Customization
 #

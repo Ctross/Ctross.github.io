@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-storage.jpg"
+    caption: 'Street art, Universidad Nacional de Colombia, Bogota'
 #
 # Metainformation & Customization
 #

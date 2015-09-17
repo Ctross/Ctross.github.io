@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-sust.jpg"
+    caption: 'Amazon rain forest, Amazonas, Brazil'
 #
 # Metainformation & Customization
 #

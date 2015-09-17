@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-orthologs.jpg"
+    caption: 'Zoologico de Cali, Colombia'
 #
 # Metainformation & Customization
 #

@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-relatedness.jpg"
+    caption: 'A monkey I saw while rappelling down a waterfall, Colombia'
 #
 # Metainformation & Customization
 #

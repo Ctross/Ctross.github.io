@@ -5,6 +5,7 @@ subheadline:
 teaser: 
 header:
     image_fullwidth: "header-violence.jpg"
+    caption: '"Black Lives Matter...?" Naw. How About America Might Murder Me and Replace My Innocent Life With a Bullshit Catch Phrase Slogan, drawing by B. Culpepper'
 #
 # Metainformation & Customization
 #
@@ -73,4 +74,5 @@ Coming Soon.
 ```
 
  [1]: https://github.com/Ctross/ctross.github.io/blob/master/pdfs/PoliceViolence.pdf
+
  

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Bayesian Analysis of Agta Demography Through the Transition from Foraging to Landless Peasantry (Eastern Luzon, Philippines)"
+title: "Bayesian Analysis of Agta Demography Through the Transition from Foraging to Landless Peasantry"
 subheadline: 
 teaser: 
 header:
     image_fullwidth: "header-agta.jpg"
+    caption: 'Street art in Chapinero, Bogota, Colombia'
 #
 # Metainformation & Customization
 #
