@@ -4,8 +4,8 @@ title: "On the Rates of Lethal and Racially-Biased Violence by Police"
 subheadline: 
 teaser: 
 header:
-    image_fullwidth: "header-violence.jpg"
-    caption: '"Black Lives Matter...?" Naw. How About America Might Murder Me and Replace My Innocent Life With a Bullshit Catch Phrase Slogan, drawing by B. Culpepper'
+    image_fullwidth: "header-chess.jpg"
+    caption: 'A game of Chess, Bogota'
 #
 # Metainformation & Customization
 #
@@ -20,7 +20,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 <div class="row">
 <div class="medium-8 columns t30">
-<img src="{{ site.url }}/images/violence.png" alt="">
+<img src="{{ site.url }}/images/chess.png" alt="">
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 Recently, Beheim et al. [1] introduced the idea of using archived records
