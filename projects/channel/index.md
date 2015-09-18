@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "A Time Series Bayesian Network Linking Ecology, Population, and Political Economy in Agrarian
-England"
+title: "Ideal Free Prehistoric Settlement of the Northern Channel Islands"
 subheadline: 
 teaser: 
 header:
