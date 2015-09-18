@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Spatial and Temporal Variation in Medieval English Cereal Yields"
+title: "A Time Series Bayesian Network Linking Ecology, Population, and Political Economy in Agrarian
+England"
 subheadline: 
 teaser: 
 header:
