@@ -233,7 +233,7 @@ google_analytics_tracking_id:
 #  tawk.to is a free live chat app that lets you monitor and chat
 #  with visitors on your website or from a free customizable page
 #
-#  To load the script add tawkto: true in front matter of each page
+#  To load the script add tawkto: true in front mattter of each page
 #
 # used in _includes/footer_scripts
 
