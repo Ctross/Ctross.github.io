@@ -27,6 +27,8 @@
     url: "/projects/chess/"
   - title: "Multi-level Bayesian Inference andHIV/STD Prevalence" 
     url: "/projects/std/"
+  -title: "Spatial and Temporal Variation in Medieval English Cereal Yields"
+    url: "/projects/crop/"
   - title: "Slavery, Inequality, and Repatriation"
     url: "/projects/slavery/"
   - title: "Wealth, Inequality, and Polygyny"
