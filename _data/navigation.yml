@@ -25,6 +25,8 @@
   dropdown:
   - title: "Social Learning and Chess"
     url: "/projects/chess/"
+  - title: "Multi-level Bayesian Inference andHIV/STD Prevalence" 
+    url: "/projects/std/"
   - title: "Slavery, Inequality, and Repatriation"
     url: "/projects/slavery/"
   - title: "Wealth, Inequality, and Polygyny"
