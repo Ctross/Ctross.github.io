@@ -41,6 +41,8 @@ doi = "http://dx.doi.org/10.1016/j.meegid.2015.10.010",
 author = "Morteza Roodgar and Cody T. Ross and Ross Tarara and Linda Lowenstine and Satya Dandekar and David Glenn Smith"
 }
 ```
+
+
  [1]: http://www.sciencedirect.com/science/article/pii/S1567134815300101
  [2]: https://github.com/Ctross/ctross.github.io/blob/master/pdfs/TB.pdf
 
