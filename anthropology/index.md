@@ -55,11 +55,11 @@ N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T
 
 [3][3] <strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change and the transition to sustainability. In Global Environmental Change: The Handbook of Global Environmental Pollution. 
 
-[4][4] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. In Review.
+[4][4] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One.
 
-[5][5] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. In Review.
+[5][5] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. 
 
-[6][6] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). Adaptive phylogenetic modeling of cultural traits: The origins and maintenance of female genital modification. Human Nature. In Review.
+[6][6] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). Adaptive phylogenetic modeling of cultural traits: The origins and maintenance of female genital modification. Human Nature. 
 
 [7][7] <strong>Ross, C.T.</strong>, Joyas Campino, P., and Winterhalder, B. (2015). Inter-ethnic transfer and cultural evolution of female genital modification in the African diaspora and Indigenous populations of Colombia. Human Nature.
 
@@ -67,7 +67,7 @@ N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T
 
 [9][9] Winterhalder, B., Puleston, C., and <strong>Ross, C.T. </strong>(2015). Production risk, inter-annual food storage by households, and population-level consequences in prehistoric agrarian societies. Environmental Archaeology: The Journal of Human Palaeoecology.
 
-[10][10] <strong>Ross, C.T.</strong>, and Winterhalder, B. (20015). Sit-and-wait versus active search hunting: A behavioral ecological model of hunting strategies. Journal of Theoretical Biology. In Review.
+[10][10] <strong>Ross, C.T.</strong>, and Winterhalder, B. (20015). Sit-and-wait versus active search hunting: A behavioral ecological model of hunting strategies. Journal of Theoretical Biology.
 
 [11][11] <strong>Ross, C.T.</strong>, and Winterhalder, B. (2015). A hierarchical Bayesian analysis of parasite prevalence and socio-cultural outcomes: The mediating role of structural racism and sanitation infrastructure. American Journal of Human Biology.
 
