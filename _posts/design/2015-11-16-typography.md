@@ -3,7 +3,9 @@ layout: page-fullwidth
 title: "#ABetterBernieOrBust"
 subheadline: "Thinking Through A Simple Modelof Revolution"
 meta_teaser: "The #ABetterBernieOrBust pledge:"
-teaser: "The #ABetterBernieOrBust pledge: 1) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter exceed Clinton's projected margin of victory in the main election versus Trump, I pledge to #BernieOrBust and vote Green or write-in Bernie. 2) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter does not exceed Clintons projected margin of victory in the main election versus Trump, I pledge to vote Clinton in the main election..."
+teaser: "The #ABetterBernieOrBust pledge: 1) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter exceed Clinton's projected margin of victory in the main election versus Trump, I pledge to #BernieOrBust and vote Green or write-in Bernie. 2) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter does not exceed Clintons projected margin of victory in the main election versus Trump, I pledge to vote Clinton in the main election. 
+
+In conjunction these two pledges should also make #ABetterBernieOrBust much more palatable to moderates than #BernieOrBust, increasing the likelihood of us being able to build a critical mass of supporters to make it work. The #ABetterBernieOrBust pledge draws on the same principle for organizing coordination that lets things like Kickstarter work. We know ahead of time that a sufficient level of investment is need to make a project feasible, and any investment in that project is wasted unless it reaches a critical threshold. This frequency-dependent feedback stops small investments from ever accumulating, because the initial investments are very risky bets. However, by forming a collective agreement prior to investment, that funds will only be dispersed if the targeted funding goal is reached, destructive frequency-dependent feedback is cut-off and a mutually beneficial coordination dilemma is easily solved..."
 header: no
 image:
     thumb:  homepage_typography_thumb.jpg
