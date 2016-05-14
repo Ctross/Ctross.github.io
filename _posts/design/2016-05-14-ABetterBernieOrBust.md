@@ -14,14 +14,14 @@ categories:
     - design
 ---
 <!--more-->
-
+<div class="medium-8 columns t30">
+    <img src="{{ site.url }}/images/Bernie.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+    
 In the small world of a simple mathematical model, revolutions always start from the actions of two classes of people: those who have so much privilege that the cost of a failed revolution are negligible, and those who are so underprivileged that all-or-nothing is a survival mechanism, even when the odds of failure are astronomical. 
 
 To begin, let's assume a few facts about how revolutions like #BernieOrBust happen. First, let us assume that the probability of a successful revolution, **p**, is a function of the number of pledged supporters, **R**. In the context of #BernieOrBust, let this be the number of people who will either vote green, write-in Bernie, or just sit at home, rather than vote Clinton. If, by some fantastical stroke of genius, all Bernie supporters could coordinate and agree to not vote Clinton in the main election, such a threat would likely be enough to sway the unpledged delegates to vote Bernie at the contested Democratic convention (really, we should only need 10-15 percent of Bernie supporter to make such a pledge, in order for the projected loss of democratic votes to be sufficient to exceed Hilary's projected margin over Trump... but I'll leave the numbers to someone else). The problem here is getting such a massive number of people to coordinate, and do so in a way that is convincing enough to carry political weight. #BernieOrBust, of course, is an attempt at implementing such a coordinated effort, but one that is currently unlike to achieve much. Why? To answer that question, let's turn to the next assumptions our model.
 
-<div class="medium-8 columns t30">
-    <img src="{{ site.url }}/images/Bernie.jpg" alt="">
-    </div><!-- /.medium-8.columns -->
     
 Let us assume that there is some cost, **c**, if a revolution fails, and some benefit, **B**, if the revolution succeeds. Finally, let us assume that individuals in the society are heterogeneous in terms of how much privilege, **Q**, they have, and declare that there is some level of privilege, **Q'** below which people will do anything to avoid falling. Let's say that rich, white, young, male progressives have a lot of **Q**, so much so that even if the revolution fails and the pay the cost of failure, **c**, they are really not much worse off ([Link 1][1]). **Q-c** is still a ton of privilege. Lets also note that some people might have so little **Q** that they are below **Q'**, so they can only reach **Q** by gaining **B** from a successful revolution ([Link 2][2]).
 
