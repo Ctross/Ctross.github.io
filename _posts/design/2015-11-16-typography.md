@@ -2,8 +2,8 @@
 layout: page-fullwidth
 title: "#ABetterBernieOrBust"
 subheadline: "Thinking Through A Simple Modelof Revolution"
-meta_teaser: "Walking through the streets of Bogota, one is surrounded by socially consious art..."
-teaser: "Walking through the streets of Bogota, one is surrounded by socially consious art..."
+meta_teaser: "The #ABetterBernieOrBust pledge:"
+teaser: "The #ABetterBernieOrBust pledge: 1) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter exceed Clintons projected margin of victory in the main election versus Trump, I pledge to #BernieOrBust and vote Green, or write in Bernie. 2) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter does not exceed Clintons projected margin of victory in the main election versus Trump, I pledge to vote Clinton in the main election..."
 header: no
 image:
     thumb:  homepage_typography_thumb.jpg
