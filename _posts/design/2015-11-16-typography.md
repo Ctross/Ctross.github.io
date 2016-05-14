@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "#ABetterBernieOrBust"
 subheadline: "Thinking Through A Simple Modelof Revolution"
 meta_teaser: "The #ABetterBernieOrBust pledge:"
-teaser: "The #ABetterBernieOrBust pledge: 1) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter exceed Clintons projected margin of victory in the main election versus Trump, I pledge to #BernieOrBust and vote Green, or write in Bernie. 2) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter does not exceed Clintons projected margin of victory in the main election versus Trump, I pledge to vote Clinton in the main election..."
+teaser: "The #ABetterBernieOrBust pledge: 1) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter exceed Clinton's projected margin of victory in the main election versus Trump, I pledge to #BernieOrBust and vote Green or write-in Bernie. 2) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter does not exceed Clintons projected margin of victory in the main election versus Trump, I pledge to vote Clinton in the main election..."
 header: no
 image:
     thumb:  homepage_typography_thumb.jpg
@@ -41,7 +41,7 @@ Lets list a few goals:
 3) Maximizing the attractiveness of #BernieOrBust to moderates, who have zero tolerance for risk of suffering **c**.
 
 The #ABetterBernieOrBust pledge:
-1) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter exceed Clintons projected margin of victory in the main election versus Trump, I pledge to #BernieOrBust and vote Green, or write in Bernie.
+1) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter exceed Clinton's projected margin of victory in the main election versus Trump, I pledge to #BernieOrBust and vote Green or write-in Bernie.
 2) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter does not exceed Clintons projected margin of victory in the main election versus Trump, I pledge to vote Clinton in the main election.
 
 The #ABetterBernieOrBust pledge draws on the same principle for organizing coordination that lets things like Kickstarter work. We know ahead of time that a sufficient level of investment is need to make a project feasiable, and any investment in that project is wasted unless it reaches a critical threshold. This frequency-dependent feedback stops small investments from ever accumulating, becuase the initial investments are very risky bets. However, by forming a collective agreement prior to investment, that funds will only be dispersed in the targeted funding goal is reached, destructive frequency-dependent feedback is cut-off and a mutualy beneficial coordination dilema is easily solved.
@@ -49,9 +49,5 @@ The #ABetterBernieOrBust pledge draws on the same principle for organizing coord
 In the case of #ABetterBernieOrBust, the first part of the pledge means that we fight with everything we got to not throw the severly underprivledged, **Q<Q'**, under the bus. And the second part means, we build in a fail-safe to avoid throwing the underprivledged,**Q'+c>Q>Q'**, under the bus. In conjunction these two pledges should also make #ABetterBernieOrBust much more pallatable to moderates than #BernieOrBust, increasing the likelihood of us being able to build a critical mass of supporters to make it work.
 
 If anyone out there in this wide internet like the sound of this, share this post, spread the word, and maybe together we can organize a secure, robust, platform to organize our collective action.
-
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
 
 
