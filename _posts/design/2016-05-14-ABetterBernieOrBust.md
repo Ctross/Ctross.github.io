@@ -6,10 +6,10 @@ meta_teaser: "The #ABetterBernieOrBust pledge:"
 teaser: "The #ABetterBernieOrBust pledge: 1) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter exceeds Clinton's projected margin of victory in the main election versus Trump, I pledge to BernieOrBust and vote Green or write-in Bernie. 2) If the percentage of #ABetterBernieOrBust pledgers among likely Democratic voter does not exceed Clinton's projected margin of victory in the main election versus Trump, I pledge to vote Clinton in the main election. This two part pledge should make #ABetterBernieOrBust much more palatable to moderate, Clinton-tolerant, Bernie supporters than #BernieOrBust, increasing the likelihood of us being able to build a critical mass of voters to make it work. "
 header: no
 image:
-    thumb:  homepage_typography_thumb.jpg
-    homepage: homepage_typography.jpg
-    caption: Image by Antonio
-    caption_url: "http://www.aisleone.net/"
+    thumb:  bernie_thumb.jpg
+    homepage: bernie.jpg
+    caption: Bernie Sanders
+    caption_url: "http://img07.deviantart.net/1df9/i/2016/049/1/0/bernie_sanders_illustration_by_theblackwings33-d96xips.jpg"
 categories:
     - design
 ---
