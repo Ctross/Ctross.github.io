@@ -23,7 +23,7 @@ Let us assume that there is some cost, **c**, if a revolution fails, and some be
 
 So when people ([Link 1][1]) talk about #BernieOrBust "throwing underprivileged people under the bus", they should really be more clear (and maybe avoid leaning on monolithic narratives that erase the diverse voices of Bernie supporters). If #BernieOrBust fails, then yes a lot of people will suffer from it, especially people with **Q** such that **Q'+c>Q>Q'**. But, if #BernieOrBust isn't tried, then we are throwing all of those people with **Q<Q'** under the bus, and these people, by definition, are *more* underprivileged. 
 
-Before I gave #BernieOrBust a lot of critical thought, I was #BernieOrBust all the way. I am also a financially-stable (sort of), white, young, male progressive, and I was driven to support #BernieOrBust by hope of achieving something great and anger at how the cards were being stacked against a real progressive Democrate, but I didn't give enough thought about how #BernieOrBust could be re-imagined to protect those with **Q'+c>Q>Q'** from consequences if #BernieOrBust doesn't work.
+Before I gave #BernieOrBust a lot of critical thought, I was #BernieOrBust all the way. I am also a financially-stable (sort of), white, young, male progressive, and I was driven to support #BernieOrBust by anger at how the cards were being stacked against a progressive Democrate, but I didn't give enough thought about how #BernieOrBust could be re-imagined to protect those with **Q'+c>Q>Q'** from consequences if #BernieOrBust doesn't work.
 
 To figure out how to build a better #BernieOrBust, let's think about the dynamics of a #BernieOrBust revolution:
 
