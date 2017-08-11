@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cultural Change and the Transition to Sustainability"
+title: "Mechanisms of cultural change and the transition to sustainability"
 subheadline: 
 teaser: 
 header:
