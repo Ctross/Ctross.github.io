@@ -18,11 +18,7 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
-<div class="row">
-<div class="medium-8 columns t30">
-<img src="{{ site.url }}/images/relatedness.png" alt="">
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
+
 We compare the effectiveness of short tandem repeat (STR) and single nucleotide polymorphism (SNP) genotypes for estimating pairwise relatedness, using molecular data and pedigree records from a captive Chinese rhesus macaque population at the California National Primate Research Center. We find that a panel of 81 SNPs is as effective at estimating first-order kin relationships as a panel of 14 highly polymorphic STRs. We note, however, that the selected STRs provide more precise predictions of relatedness than the selected SNPs, and may be preferred in contexts that require the discrimination of kin related more distantly than first-order relatives. Additionally, we compare the performance of three commonly used relatedness estimation algorithms, and find that the Wang [2002] algorithm outperforms other algorithms when analyzing STR data, while the Queller and Goodnight [1994] algorithm outperforms other algorithms when analyzing SNP data. Future research is needed to address the number of SNPs required to reach the discriminatory power of a standard STR panel in relatedness estimation for primate colony management.
 
 Read the paper [online][1] or download a preprint [here][2].
