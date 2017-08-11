@@ -86,12 +86,12 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 [9][9] Roodgar, M., <strong>Ross, C.T.</strong>, Kenyon, N., Marcelino, G., and Smith, D.G. (2014). iNOS regulatory region variation in non-human primates. Infection, Genetics, and Evolution.
 
 [8][8] <strong>Ross, C.T.</strong>, Roodgar, M., and Smith, D.G. (2015). Evolutionary distance of amino acid
-sequence orthologs across macaque subspecies: Candidate genes for SIV resistance in Chinese rhesus macaques. PLOS One.
+sequence orthologs across macaque subspecies: Candidate genes for SIV resistance in Chinese rhesus macaques. PLOS One. 10 (4), e0123624. 
 
 [7][7] <strong>Ross, C.T.</strong>, and Richerson, P.J. (2014). New frontiers in the study of human cultural and
-genetic evolution. Current Opinion in Genetics and Development.
+genetic evolution. Current Opinion in Genetics and Development.  29, 103-109.
 
-[6][6] <strong>Ross, C.T.</strong>, Weise, J.A., Bonnar, S., Nolin, D., Satkoski Trask, J., Smith, D.G., ... and Kanthaswamy, S. (2014). An empirical comparison of short tandem repeats (STRs) and single nucleotide polymorphisms (SNPs) for relatedness estimation in Chinese rhesus macaques (Macaca mulatta). American Journal of Primatology.
+[6][6] <strong>Ross, C.T.</strong>, Weise, J.A., Bonnar, S., Nolin, D., Satkoski Trask, J., Smith, D.G., ... and Kanthaswamy, S. (2014). An empirical comparison of short tandem repeats (STRs) and single nucleotide polymorphisms (SNPs) for relatedness estimation in Chinese rhesus macaques (Macaca mulatta). American Journal of Primatology. 76 (4), 313-324.
 
 [5][5] <strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change and the transition to sustainability. In Global Environmental Change: The Handbook of Global Environmental Pollution. 
 
