@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Publications"
-teaser: "My work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology.  My research program more closely resembles a wide-ranging network of publications and ideas that are friends with each other, than a linear exploration of a single theme. I am interested in colloboration, work on applied issues, and satisfying my own—often wandering—intellectual curiousities."
+teaser: "My work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology. Links for bibtex citation, abstracts, preprint PDFs, and links to associated data and code are included for each publication."
 categories:
   - 
 tags:
@@ -46,6 +46,12 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
+
+[27][27] Pacheco-Cobos, L., <strong>Ross, C.T.</strong>, Rosetti, M.F., Hudson, R., and Winterhalder, B. (2017). Search dynamics of Mexican Tlaxcaltec mushroom foragers confirm marginal value theorem predictions. 
+
+[26][26] <strong>Ross, C.T.</strong> and Winterhalder, B. Indigenous Colombian blowgun hunters use adaptive encounter-conditional heuristics not Levy flights when searching for prey.
+
+[25][25] <strong>Ross, C.T.</strong>, Pacheco-Cobos, L., and Winterhalder, B. (2017). Adaptive encounter-conditional heuristics outperform Levy flights in search for patchily distributed prey
 
 [24][24] <strong>Ross, C.T.</strong>, Winterhalder, B., and McElreath, R. (2017). Resolution of apparent paradoxes in the frequency of the use of lethal and non-lethal force by police. 
 
