@@ -75,9 +75,9 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
 [14][14] Roodgar, M., <strong>Ross, C.T.</strong>, Tarara, R., Lowenstine, L., Dandekar, S., and Smith, D.G. Gene expression and TB pathogenesis in rhesus macaques: NR2C2,(TR4), CD40, CD40L, Fas (CD95), FASL(CD95L), IL7, NRAMP, and TNF-alpha are host genetic markers in peripheral blood mononuclear cells that are associated with severity of TB lesions. Infection, Genetics, and Evolution. 
 
-[13][13] <strong>Ross, C.T.</strong>, and Winterhalder, B. (20015). Sit-and-wait versus active search hunting: A behavioral ecological model of hunting strategies. Journal of Theoretical Biology.
+[13][13] <strong>Ross, C.T.</strong>, and Winterhalder, B. (20015). Sit-and-wait versus active search hunting: A behavioral ecological model of hunting strategies. Journal of Theoretical Biology. 387, 76-87.
 
-[12][12] Winterhalder, B., Puleston, C., and <strong>Ross, C.T. </strong>(2015). Production risk, inter-annual food storage by households, and population-level consequences in prehistoric agrarian societies. Environmental Archaeology: The Journal of Human Palaeoecology.
+[12][12] Winterhalder, B., Puleston, C., and <strong>Ross, C.T. </strong>(2015). Production risk, inter-annual food storage by households, and population-level consequences in prehistoric agrarian societies. Environmental Archaeology: The Journal of Human Palaeoecology. 20 (4), 337-348.
 
 [11][11] <strong>Ross, C.T.</strong>, and Winterhalder, B. (2015). A hierarchical Bayesian analysis of parasite prevalence and socio-cultural outcomes: The mediating role of structural racism and sanitation infrastructure. American Journal of Human Biology. 28 (1), 74-89.
 
