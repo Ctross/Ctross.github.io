@@ -18,11 +18,7 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
-<div class="row">
-<div class="medium-8 columns t30">
-<img src="{{ site.url }}/images/sustain.png" alt="">
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
+
 Humans learn and share information on a massive scale through the use of culture. In this paper, we will outline the mechanisms of evolutionary cultural change, evaluate their role in ecologically destructive feedback loops, and conclude by describing how we might harness the mechanisms of cultural evolution to favor ecologically and socially beneficial change. A virtue of the science of cultural evolution is that it is developed on the same basic framework of ecology and evolution that applies to the natural world, giving it a synthetic role in linking the human behavioral sciences to the natural sciences. 
 
 Read the paper [online][1] or download the preprint [here][2].
