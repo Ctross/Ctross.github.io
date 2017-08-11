@@ -25,19 +25,14 @@ Read the paper [online][1] or download the preprint [here][2]
 
 Bibtex:
 ```
-@article{richerson2015cultural,
-author = {Richerson,Peter and Baldini,Ryan and Bell,Adrian and Demps,Kathryn and Frost,Karl and Hillis,Vicken and Mathew,Sarah and Newton,Emily and Narr,Nicole and Newson,Lesley and Ross,Cody and Smaldino,Paul and Waring,Timothy and Zefferman,Matthew},
-title = {Cultural Group Selection Plays an Essential Role in Explaining Human Cooperation: A Sketch of the Evidence},
-journal = {Behavioral and Brain Sciences},
-volume = {FirstView},
-month = {10},
-year = {2015},
-issn = {1469-1825},
-pages = {1--71},
-numpages = {71},
-doi = {10.1017/S0140525X1400106X},
-URL = {http://journals.cambridge.org/article_S0140525X1400106X},
-}
+@article{richerson_baldini_bell_demps_frost_hillis_mathew_newton_naar_newson_et al._2016, 
+title={Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence}, 
+volume={39}, 
+DOI={10.1017/S0140525X1400106X}, 
+journal={Behavioral and Brain Sciences}, 
+publisher={Cambridge University Press}, 
+author={Richerson, Peter and Baldini, Ryan and Bell, Adrian V. and Demps, Kathryn and Frost, Karl and Hillis, Vicken and Mathew, Sarah and Newton, Emily K. and Naar, Nicole and Newson, Lesley and et al.}, 
+year={2016}}
 ```
 
  [1]: http://journals.cambridge.org/abstract_S0140525X1400106X
