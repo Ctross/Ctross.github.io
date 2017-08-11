@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Candiate Genes for SIV Resistance"
+title: "Evolutionary distance of amino acid sequence orthologs across macaque subspecies: Candidate genes for SIV resistance in Chinese rhesus macaques"
 subheadline: 
 teaser: 
 header:
@@ -18,11 +18,7 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
-<div class="row">
-<div class="medium-8 columns t30">
-<img src="{{ site.url }}/images/siv.png" alt="">
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
+ 
 We use the Reciprocal Smallest Distance (RSD) algorithm to identify amino acid sequence orthologs in the Chinese and Indian rhesus macaque draft sequences and estimate the evolutionary distance between such orthologs. We then use GOanna to map gene function annotations and human gene identifiers to the rhesus macaque amino acid sequences. We conclude methodologically by cross-tabulating a list of amino acid orthologs with large divergence scores with a list of genes known to be involved in SIV or HIV pathogenesis. We find that many of the amino acid sequences with large evolutionary divergence scores, as calculated by the RSD algorithm, have been shown to be related to HIV pathogenesis in previous laboratory studies. Four of the strongest candidate genes for SIVmac resistance in Chinese rhesus macaques identified in this study are CDK9, CXCL12, TRIM21, and TRIM32. Additionally, ANKRD30A, CTSZ, GORASP2, GTF2H1, IL13RA1, MUC16, NMDAR1, Notch1, NT5M, PDCD5, RAD50, and TM9SF2 were identified as possible candidates, among others. We failed to find many laboratory experiments contrasting the effects of Indian and Chinese orthologs at these sites on SIVmac pathogenesis, but future comparative studies might hold fertile ground for research into the biological mechanisms underlying innate resistance to SIVmac in Chinese rhesus macaques.
 
 Read the paper [online][1] (free) or download a preprint [here][2].
