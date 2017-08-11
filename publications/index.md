@@ -4,8 +4,8 @@ layout: page
 # Content
 #
 subheadline: ""
-title: "Anthropology Publications"
-teaser: "In the domain of quantititative social science, my work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology.  My research program more closely resembles a wide-ranging network of publications and ideas that are friends with each other, than a linear exploration of a single theme. I am interested in colloboration, work on applied issues, and satisfying my own—often wandering—intellectual curiousities."
+title: "Publications"
+teaser: "My work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology.  My research program more closely resembles a wide-ranging network of publications and ideas that are friends with each other, than a linear exploration of a single theme. I am interested in colloboration, work on applied issues, and satisfying my own—often wandering—intellectual curiousities."
 categories:
   - 
 tags:
@@ -71,17 +71,17 @@ N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T
 
 [11][11] <strong>Ross, C.T.</strong>, and Winterhalder, B. (2015). A hierarchical Bayesian analysis of parasite prevalence and socio-cultural outcomes: The mediating role of structural racism and sanitation infrastructure. American Journal of Human Biology.
 
- [1]: http://codytross.com/anthropology/cooperation/
- [2]: http://codytross.com/anthropology/psa/
- [3]: http://codytross.com/anthropology/sustain/
- [4]: http://codytross.com/anthropology/shoot/
- [5]: http://codytross.com/anthropology/violence/
- [6]: http://codytross.com/anthropology/oumodels/
- [7]: http://codytross.com/anthropology/fgmocolombia/
- [8]: http://codytross.com/anthropology/agta/
- [9]: http://codytross.com/anthropology/storage/
- [10]: http://codytross.com/anthropology/swas/
- [11]: http://codytross.com/anthropology/parasites/
+ [1]: http://codytross.com/publications/cooperation/
+ [2]: http://codytross.com/publications/psa/
+ [3]: http://codytross.com/publications/sustain/
+ [4]: http://codytross.com/publications/shoot/
+ [5]: http://codytross.com/publications/violence/
+ [6]: http://codytross.com/publications/oumodels/
+ [7]: http://codytross.com/publications/fgmocolombia/
+ [8]: http://codytross.com/publications/agta/
+ [9]: http://codytross.com/publications/storage/
+ [10]: http://codytross.com/publications/swas/
+ [11]: http://codytross.com/publications/parasites/
 
 
 
