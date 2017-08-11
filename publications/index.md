@@ -47,41 +47,102 @@ permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 
-[1][1] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,
+[24][24] <strong>Ross, C.T.</strong>, Winterhalder, B., and McElreath, R. (2017). Resolution of apparent
+paradoxes in the frequency of the use of lethal and non-lethal force by police. PLOS One.
+In revision.
+
+[23][23] Purzycki, B., <strong>Ross, C.T. </strong>, Apicella, C., Atkinson, Q., Cohen, E., McNamara, R.A.,
+Willard, A.K., Xygalatas, D., Norenzayan, A., and Henrich, J. (2017). Material security,
+life history, and moralistic religions: A cross-cultural examination. Proceedings of the
+Royal Society B. In revision.
+
+[22][22] <strong>Ross, C.T. </strong> (2017). Digging deeper: population-level racial disparities, exposure to
+police victimisation and psychological trauma. Epidemiology and Psychiatric Sciences 11, 1-3.
+
+[21][21] <strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. In Review.
+
+[20][20] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,
+N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M.
+(2015). Cultural group selection follows Darwin’s classic syllogism for the operation of selection [Author’s Reply]. Behavioral and Brain Sciences.
+
+[19][19] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar,
 N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M.
 (2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences.
 
-[2][2] <strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. In Review.
+[18][18] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). Adaptive phylogenetic modeling of cultural traits: The origins and maintenance of female genital modification. Human Nature. 
 
-[3][3] <strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change and the transition to sustainability. In Global Environmental Change: The Handbook of Global Environmental Pollution. 
+[17][17] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Winterhalder, B., Uehara, R., Headland, J., and Headland, T. (2015). Bayesian analysis of Agta demography through the transition from foragers to landless peasantry (eastern Luzon, Philippines). Evolution and Human Behavior. In Review.
 
-[4][4] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One.
+[16][16] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. 
 
-[5][5] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. 
+[15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One.
 
-[6][6] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). Adaptive phylogenetic modeling of cultural traits: The origins and maintenance of female genital modification. Human Nature. 
+[14][14] Roodgar, M., <strong>Ross, C.T.</strong>, Tarara, R., Lowenstine, L., Dandekar, S., and Smith, D.G. Gene expression and TB pathogenesis in rhesus macaques: NR2C2,(TR4), CD40, CD40L, Fas (CD95), FASL(CD95L), IL7, NRAMP, and TNF-alpha are host genetic markers in peripheral blood mononuclear cells that are associated with severity of TB lesions.
+Infection, Genetics, and Evolution. In Review.
 
-[7][7] <strong>Ross, C.T.</strong>, Joyas Campino, P., and Winterhalder, B. (2015). Inter-ethnic transfer and cultural evolution of female genital modification in the African diaspora and Indigenous populations of Colombia. Human Nature.
+[13][13] <strong>Ross, C.T.</strong>, and Winterhalder, B. (20015). Sit-and-wait versus active search hunting: A behavioral ecological model of hunting strategies. Journal of Theoretical Biology.
 
-[8][8] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Winterhalder, B., Uehara, R., Headland, J., and Headland, T. (2015). Bayesian analysis of Agta demography through the transition from foragers to landless peasantry (eastern Luzon, Philippines). Evolution and Human Behavior. In Review.
-
-[9][9] Winterhalder, B., Puleston, C., and <strong>Ross, C.T. </strong>(2015). Production risk, inter-annual food storage by households, and population-level consequences in prehistoric agrarian societies. Environmental Archaeology: The Journal of Human Palaeoecology.
-
-[10][10] <strong>Ross, C.T.</strong>, and Winterhalder, B. (20015). Sit-and-wait versus active search hunting: A behavioral ecological model of hunting strategies. Journal of Theoretical Biology.
+[12][12] Winterhalder, B., Puleston, C., and <strong>Ross, C.T. </strong>(2015). Production risk, inter-annual food storage by households, and population-level consequences in prehistoric agrarian societies. Environmental Archaeology: The Journal of Human Palaeoecology.
 
 [11][11] <strong>Ross, C.T.</strong>, and Winterhalder, B. (2015). A hierarchical Bayesian analysis of parasite prevalence and socio-cultural outcomes: The mediating role of structural racism and sanitation infrastructure. American Journal of Human Biology.
 
- [1]: http://codytross.com/publications/cooperation/
- [2]: http://codytross.com/publications/psa/
- [3]: http://codytross.com/publications/sustain/
- [4]: http://codytross.com/publications/shoot/
- [5]: http://codytross.com/publications/violence/
- [6]: http://codytross.com/publications/oumodels/
- [7]: http://codytross.com/publications/fgmocolombia/
- [8]: http://codytross.com/publications/agta/
- [9]: http://codytross.com/publications/storage/
- [10]: http://codytross.com/publications/swas/
+[10][10] <strong>Ross, C.T.</strong>, Joyas Campino, P., and Winterhalder, B. (2015). Inter-ethnic transfer and cultural evolution of female genital modification in the African diaspora and Indigenous populations of Colombia. Human Nature.
+
+[9][9] Roodgar, M., <strong>Ross, C.T.</strong>, Kenyon, N., Marcelino, G., and Smith, D.G. (2014). iNOS
+regulatory region variation in non-human primates. Infection, Genetics, and Evolution.
+
+[8][8] <strong>Ross, C.T.</strong>, Roodgar, M., and Smith, D.G. (2015). Evolutionary distance of amino acid
+sequence orthologs across macaque subspecies: Candidate genes for SIV resistance in
+Chinese rhesus macaques. PLOS One.
+
+[7][7] <strong>Ross, C.T.</strong>, and Richerson, P.J. (2014). New frontiers in the study of human cultural and
+genetic evolution. Current Opinion in Genetics and Development.
+
+[6][6] <strong>Ross, C.T.</strong>, Weise, J.A., Bonnar, S., Nolin, D., Satkoski Trask, J., Smith, D.G., ... and
+Kanthaswamy, S. (2014). An empirical comparison of short tandem repeats (STRs) and
+single nucleotide polymorphisms (SNPs) for relatedness estimation in Chinese rhesus
+macaques (Macaca mulatta). American Journal of Primatology.
+
+[5][5] <strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change and the transition to sustainability. In Global Environmental Change: The Handbook of Global Environmental Pollution. 
+
+[4][4] Kanthaswamy, S., Ng, J., <strong>Ross, C.T.</strong>, Trask, J.S., Smith, D.G., Buffalo, V.S., ... and
+Lin, D. (2013). Identifying human-rhesus macaque gene orthologs using heterospecific
+SNP probes. Genomics.
+
+[3][3] Kanthaswamy, S., Trask, J.S., <strong>Ross, C.T.</strong>, Kou, A., Houghton, P., Smith, D.G., and
+Lerche, N. (2012). A large-scale SNP-based genomic admixture analysis of the captive
+rhesus macaque colony at the California National Primate Research Center. American
+Journal of Primatology.
+
+[2][2] <strong>Ross, C.T.</strong> (2014). Bayesian methods in applied anthropology and human behavioral ecology. PhD Dissertation, University of California, Davis. ISBN 9781321363838.
+
+[1][1] <strong>Ross, C.T.</strong> (2010). Pura vida in a land of chemicals and pasture: An anthropological
+exploration of the Pagos por Servicios Ambientales program, linking conservation, human needs, and sustainable land-use in Costa Rica. MA Dissertation, California State University, Fullerton. Dissertations & Theses: A&I. (Publication No. AAT 1486164).
+
+ [1]: http://codytross.com/publications/puravida/
+ [2]: http://codytross.com/publications/dissertation/
+ [3]: http://codytross.com/publications/admixture/
+ [4]: http://codytross.com/publications/orthologs/
+ [5]: http://codytross.com/publications/sustain/
+ [6]: http://codytross.com/publications/relatedness/
+ [7]: http://codytross.com/publications/geneculture/
+ [8]: http://codytross.com/publications/siv/
+ [9]: http://codytross.com/publications/inos/ 
+ [10]: http://codytross.com/publications/fgmocolombia/
  [11]: http://codytross.com/publications/parasites/
+ [12]: http://codytross.com/publications/storage/
+ [13]: http://codytross.com/publications/swas/
+ [14]: http://codytross.com/publications/tb/
+ [15]: http://codytross.com/publications/shoot/
+ [16]: http://codytross.com/publications/violence/
+ [17]: http://codytross.com/publications/agta/
+ [18]: http://codytross.com/publications/oumodels/
+ [19]: http://codytross.com/publications/cooperation/
+ [20]: http://codytross.com/publications/cooperationreply/
+ [21]: http://codytross.com/publications/psa/
+ [22]: http://codytross.com/publications/diggingdeeper/
+ [23]: http://codytross.com/publications/religiosity/
+ [24]: http://codytross.com/publications/policemodel/
 
 
 
