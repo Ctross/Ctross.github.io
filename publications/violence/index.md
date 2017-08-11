@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "On the Rates of Lethal and Racially-Biased Violence by Police"
+title: "Identifying the drivers of the exceptionally high rates of lethal and racially biased violence by police in the United States requires geographically resolved data and analysis"
 subheadline: 
 teaser: 
 header:
@@ -62,13 +62,22 @@ geographically-resolved variables, such as rates of weapons ownership by civilia
 for police), local-level racist norms, generalized social values (individualist vs collectivist spectrum), race-specific rates of crime, poverty and inequality levels, and population size, rigorous statistical methods can
 be used to evaluate the theoretical predictions outlined by Hirschfield [2015].
 
-Read the paper online or download the preprint [here][1].
+Read the paper online [here][1] or download the preprint [here][2].
 
 Bibtex:
 ```
-Coming Soon.
+@inproceedings{ross2016identifying,
+  title={Identifying the drivers of the exceptionally high rates of lethal and racially biased violence by police in the United States requires geographically resolved data and analysis},
+  author={Ross, Cody T},
+  booktitle={Sociological Forum},
+  volume={31},
+  number={1},
+  pages={231--232},
+  year={2016}
+}
 ```
 
- [1]: https://github.com/Ctross/ctross.github.io/blob/master/pdfs/PoliceViolence.pdf
+ [1]: http://onlinelibrary.wiley.com/doi/10.1111/socf.12233/full
+ [2]: https://github.com/Ctross/ctross.github.io/blob/master/pdfs/PoliceViolence.pdf
 
  
