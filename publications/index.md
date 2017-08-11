@@ -79,11 +79,11 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
 [12][12] Winterhalder, B., Puleston, C., and <strong>Ross, C.T. </strong>(2015). Production risk, inter-annual food storage by households, and population-level consequences in prehistoric agrarian societies. Environmental Archaeology: The Journal of Human Palaeoecology.
 
-[11][11] <strong>Ross, C.T.</strong>, and Winterhalder, B. (2015). A hierarchical Bayesian analysis of parasite prevalence and socio-cultural outcomes: The mediating role of structural racism and sanitation infrastructure. American Journal of Human Biology.
+[11][11] <strong>Ross, C.T.</strong>, and Winterhalder, B. (2015). A hierarchical Bayesian analysis of parasite prevalence and socio-cultural outcomes: The mediating role of structural racism and sanitation infrastructure. American Journal of Human Biology. 28 (1), 74-89.
 
-[10][10] <strong>Ross, C.T.</strong>, Joyas Campino, P., and Winterhalder, B. (2015). Inter-ethnic transfer and cultural evolution of female genital modification in the African diaspora and Indigenous populations of Colombia. Human Nature.
+[10][10] <strong>Ross, C.T.</strong>, Joyas Campino, P., and Winterhalder, B. (2015). Inter-ethnic transfer and cultural evolution of female genital modification in the African diaspora and Indigenous populations of Colombia. Human Nature. 26 (4) 351-377.
 
-[9][9] Roodgar, M., <strong>Ross, C.T.</strong>, Kenyon, N., Marcelino, G., and Smith, D.G. (2014). iNOS regulatory region variation in non-human primates. Infection, Genetics, and Evolution.
+[9][9] Roodgar, M., <strong>Ross, C.T.</strong>, Kenyon, N., Marcelino, G., and Smith, D.G. (2014). iNOS regulatory region variation in non-human primates. Infection, Genetics, and Evolution. 31, 236-244.
 
 [8][8] <strong>Ross, C.T.</strong>, Roodgar, M., and Smith, D.G. (2015). Evolutionary distance of amino acid
 sequence orthologs across macaque subspecies: Candidate genes for SIV resistance in Chinese rhesus macaques. PLOS One. 10 (4), e0123624. 
