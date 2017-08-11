@@ -65,13 +65,13 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
 [19][19] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar, N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M. (2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences.
 
-[18][18] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). Adaptive phylogenetic modeling of cultural traits: The origins and maintenance of female genital modification. Human Nature. 
+[18][18] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). The Origins and Maintenance of Female Genital Modification across Africa. Human Nature. 27 (2), 173-200. 
 
-[17][17] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Winterhalder, B., Uehara, R., Headland, J., and Headland, T. (2015). Bayesian analysis of Agta demography through the transition from foragers to landless peasantry (eastern Luzon, Philippines). Evolution and Human Behavior. 
+[17][17] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Winterhalder, B., Uehara, R., Headland, J., and Headland, T. (2015). Bayesian analysis of Agta demography through the transition from foragers to landless peasantry (eastern Luzon, Philippines). Evolution and Human Behavior.  37 (5), 350-365.
 
-[16][16] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. 
+[16][16] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. 31 (1), 231-232.
 
-[15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One.
+[15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. 10 (11), e0141854.
 
 [14][14] Roodgar, M., <strong>Ross, C.T.</strong>, Tarara, R., Lowenstine, L., Dandekar, S., and Smith, D.G. Gene expression and TB pathogenesis in rhesus macaques: NR2C2,(TR4), CD40, CD40L, Fas (CD95), FASL(CD95L), IL7, NRAMP, and TNF-alpha are host genetic markers in peripheral blood mononuclear cells that are associated with severity of TB lesions. Infection, Genetics, and Evolution. 36, 396-409.
 
