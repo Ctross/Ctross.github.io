@@ -128,6 +128,6 @@ Lerche, N. (2012). A large-scale SNP-based genomic admixture analysis of the cap
  [22]: http://codytross.com/publications/diggingdeeper/
  [23]: http://codytross.com/publications/religiosity/
  [24]: http://codytross.com/publications/policemodel/
-
-
-
+ [25]: http://codytross.com/publications/levy/
+ [26]: http://codytross.com/publications/embera/
+ [27]: http://codytross.com/publications/mushrooming/
