@@ -35,7 +35,7 @@ doi={10.1007/s12110-015-9234-7},
 title={Frequency-Dependent Social Transmission and the Interethnic Transfer of Female Genital Modification in the African Diaspora and Indigenous Populations of Colombia},
 url={http://dx.doi.org/10.1007/s12110-015-9234-7},
 publisher={Springer US},
-author={Ross, CodyT. and Campiño, PatriciaJoyas and Winterhalder, Bruce},
+author={Ross, Cody T. and Campiño, Joyas Patricia  and Winterhalder, Bruce},
 pages={351-377}
 }
 ```
