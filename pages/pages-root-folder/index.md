@@ -20,8 +20,8 @@ widget2:
   text: 'All of the source code used in my publications is free and publically available. Make it your own and do with it what you want. Grab your copy or clone whole projects at GitHub. Let me know what you use it for via Twitter <a href="http://twitter.com/mindismoving">@mindismoving</a>.'
 widget3:
   title: "Publications"
-  url: 'http://codytross.com/anthropology/'
+  url: 'http://codytross.com/publications/'
   image: pubcover.jpg
-  text: 'I maintain a database of pre-prints (to download the PDFs, just click "Raw", after opening the preprint in the GitHub browser), BibTeX citations, and abstracts for all of my publications. My anthropology-related publications are <a href="http://codytross.com/anthropology/">here</a> and my genetics-related papers are <a href="http://codytross.com/genetics/">here</a>. Also, the homepage of each publication has a comments section for discussion, questions, or critiques. Feel free to start a discussion.'
+  text: 'I maintain a database of pre-prints (to download the PDFs, just click "Raw", after opening the preprint in the GitHub browser), BibTeX citations, abstracts, erratum, and data/code repositiorys for all of my publications.
 permalink: index.html
 ---
