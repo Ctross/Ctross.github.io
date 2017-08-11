@@ -47,15 +47,15 @@ permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 
-[27][27] Pacheco-Cobos, L., <strong>Ross, C.T.</strong>, Rosetti, M.F., Hudson, R., and Winterhalder, B. (2017). Search dynamics of Mexican Tlaxcaltec mushroom foragers confirm marginal value theorem predictions. 
+[27][27] Pacheco-Cobos, L., <strong>Ross, C.T.</strong>, Rosetti, M.F., Hudson, R., and Winterhalder, B. (2017). Search dynamics of Mexican Tlaxcaltec mushroom foragers confirm marginal value theorem predictions. In Review.
 
-[26][26] <strong>Ross, C.T.</strong> and Winterhalder, B. Indigenous Colombian blowgun hunters use adaptive encounter-conditional heuristics not Levy flights when searching for prey.
+[26][26] <strong>Ross, C.T.</strong> and Winterhalder, B. Indigenous Colombian blowgun hunters use adaptive encounter-conditional heuristics not Levy flights when searching for prey. In Review.
 
-[25][25] <strong>Ross, C.T.</strong>, Pacheco-Cobos, L., and Winterhalder, B. (2017). Adaptive encounter-conditional heuristics outperform Levy flights in search for patchily distributed prey
+[25][25] <strong>Ross, C.T.</strong>, Pacheco-Cobos, L., and Winterhalder, B. (2017). Adaptive encounter-conditional heuristics outperform Levy flights in search for patchily distributed prey. In Review.
 
-[24][24] <strong>Ross, C.T.</strong>, Winterhalder, B., and McElreath, R. (2017). Resolution of apparent paradoxes in the frequency of the use of lethal and non-lethal force by police. 
+[24][24] <strong>Ross, C.T.</strong>, Winterhalder, B., and McElreath, R. (2017). Resolution of apparent paradoxes in the frequency of the use of lethal and non-lethal force by police. In Review.
 
-[23][23] Purzycki, B., <strong>Ross, C.T. </strong>, Apicella, C., Atkinson, Q., Cohen, E., McNamara, R.A., Willard, A.K., Xygalatas, D., Norenzayan, A., and Henrich, J. (2017). Material security, life history, and moralistic religions: A cross-cultural examination. 
+[23][23] Purzycki, B., <strong>Ross, C.T. </strong>, Apicella, C., Atkinson, Q., Cohen, E., McNamara, R.A., Willard, A.K., Xygalatas, D., Norenzayan, A., and Henrich, J. (2017). Material security, life history, and moralistic religions: A cross-cultural examination. In Review.
 
 [22][22] <strong>Ross, C.T. </strong> (2017). Digging deeper: population-level racial disparities, exposure to police victimisation and psychological trauma. Epidemiology and Psychiatric Sciences 11, 1-3.
 
