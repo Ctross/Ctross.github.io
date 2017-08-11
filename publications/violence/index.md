@@ -18,11 +18,7 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
-<div class="row">
-<div class="medium-8 columns t30">
-<img src="{{ site.url }}/images/violence.png" alt="">
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
+ 
 Drawing on the Fatal Encounters database [Burghart, 2014], Hirschfield [2015] presents a brief review
 of plausible drivers for the exceptionally-high rate at which police officers in the United States kill
 American civilians. Hirschfield [2015] outlines how police violence in America is likely to be driven
