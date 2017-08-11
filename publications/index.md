@@ -59,11 +59,11 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
 [22][22] <strong>Ross, C.T. </strong> (2017). Digging deeper: population-level racial disparities, exposure to police victimisation and psychological trauma. Epidemiology and Psychiatric Sciences 11, 1-3.
 
-[21][21] <strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. In Review.
+[21][21] <strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. 130, 252-262.
 
-[20][20] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar, N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M. (2015). Cultural group selection follows Darwin’s classic syllogism for the operation of selection [Author’s Reply]. Behavioral and Brain Sciences.
+[20][20] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar, N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M. (2015). Cultural group selection follows Darwin’s classic syllogism for the operation of selection [Author’s Reply]. Behavioral and Brain Sciences. 39.
 
-[19][19] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar, N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M. (2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences.
+[19][19] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar, N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M. (2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences. 39.
 
 [18][18] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). The Origins and Maintenance of Female Genital Modification across Africa. Human Nature. 27 (2), 173-200. 
 
