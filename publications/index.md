@@ -95,10 +95,10 @@ genetic evolution. Current Opinion in Genetics and Development.
 
 [5][5] <strong>Ross, C.T.</strong>, Richerson, P.J., and Rogers, D. (2013). Mechanisms of cultural change and the transition to sustainability. In Global Environmental Change: The Handbook of Global Environmental Pollution. 
 
-[4][4] Kanthaswamy, S., Ng, J., <strong>Ross, C.T.</strong>, Trask, J.S., Smith, D.G., Buffalo, V.S., ... and Lin, D. (2013). Identifying human-rhesus macaque gene orthologs using heterospecific SNP probes. Genomics.
+[4][4] Kanthaswamy, S., Ng, J., <strong>Ross, C.T.</strong>, Trask, J.S., Smith, D.G., Buffalo, V.S., ... and Lin, D. (2013). Identifying human-rhesus macaque gene orthologs using heterospecific SNP probes. Genomics.  101 (1), 30-37.
 
 [3][3] Kanthaswamy, S., Trask, J.S., <strong>Ross, C.T.</strong>, Kou, A., Houghton, P., Smith, D.G., and
-Lerche, N. (2012). A large-scale SNP-based genomic admixture analysis of the captive rhesus macaque colony at the California National Primate Research Center. American Journal of Primatology.
+Lerche, N. (2012). A large-scale SNP-based genomic admixture analysis of the captive rhesus macaque colony at the California National Primate Research Center. American Journal of Primatology. 74 (8), 747-757.
 
 [2][2] <strong>Ross, C.T.</strong> (2014). Bayesian methods in applied anthropology and human behavioral ecology. PhD Dissertation, University of California, Davis. 
 
