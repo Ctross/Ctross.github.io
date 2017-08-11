@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Publications"
-teaser: "My work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology. Links for bibtex citation, abstracts, preprint PDFs, and links to associated data and code are included for each publication."
+teaser: "My work often centers around the intersection of theory in evolution and ecology,  mathemathematical and statistical modeling, and applied anthropology. Links for bibtex citation, abstracts, preprint PDFs, erratum, and links to associated data and code are included for each publication."
 categories:
   - 
 tags:
