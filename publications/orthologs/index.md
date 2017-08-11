@@ -38,5 +38,5 @@ Bibtex:
 ```
 
 
- [1]: http://http://www.sciencedirect.com/science/article/pii/S0888754312001863
+ [1]: http://www.sciencedirect.com/science/article/pii/S0888754312001863
  [2]: https://github.com/Ctross/ctross.github.io/blob/master/pdfs/HumanRhesusOrthologs.pdf
