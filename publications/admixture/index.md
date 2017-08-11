@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Admixture Analysis of the CNPRC Rhesus Macaque Colony"
+title: "A Large-Scale SNP-Based Genomic Admixture Analysis of the Captive Rhesus Macaque Colony at the California National Primate Research Center"
 subheadline: 
 teaser: 
 header:
