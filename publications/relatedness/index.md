@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "STRs Vs SNPs for Relatedness Estimation"
+title: "An empirical comparison of short tandem repeats (STRs) and single nucleotide polymorphisms (SNPs) for relatedness estimation in Chinese rhesus macaques (Macaca mulatta)"
 subheadline: 
 teaser: 
 header:
