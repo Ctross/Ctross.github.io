@@ -47,6 +47,8 @@ permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 
+[29][29] Paul L. Hooper, P. L., <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., ..., Gavrilets, S. (2017) Humans have small sex differences in reproductive skew compared to non-human mammals. In Review. 
+
 [28][28] Oh, S.Y., <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., and Bowles, S. (2017). The Decline of Polygyny: An Interpretation. In Review.
 
 [27][27] Pacheco-Cobos, L., <strong>Ross, C.T.</strong>, Rosetti, M.F., Hudson, R., and Winterhalder, B. (2017). Search dynamics of Mexican Tlaxcaltec mushroom foragers confirm marginal value theorem predictions. In Review.
@@ -134,3 +136,4 @@ Lerche, N. (2012). A large-scale SNP-based genomic admixture analysis of the cap
  [26]: http://codytross.com/publications/embera/
  [27]: http://codytross.com/publications/mushrooming/
  [28]: http://codytross.com/publications/polymodel/
+ [29]: http://codytross.com/publications/skewcalc/
