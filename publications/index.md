@@ -71,7 +71,8 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 [19][19] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar, N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M. (2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences. 39.
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1017/S0140525X1400106X" data-hide-no-mentions="true" class="altmetric-embed"></div>
  
-[18][18] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). The Origins and Maintenance of Female Genital Modification across Africa. Human Nature. 27 (2), 173-200. 
+[18][18] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). The Origins and Maintenance of Female Genital Modification across Africa. Human Nature. 27 (2), 173-200.
+
 ------
 [17][17] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Winterhalder, B., Uehara, R., Headland, J., and Headland, T. (2015). Bayesian analysis of Agta demography through the transition from foragers to landless peasantry (eastern Luzon, Philippines). Evolution and Human Behavior.  37 (5), 350-365. 
 <div data-badge-popover="left" data-badge-type="1" data-doi="S1090-5138(16)30012-5" data-hide-no-mentions="true" class="altmetric-embed"></div>
