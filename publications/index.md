@@ -83,6 +83,8 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [21][21] <strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. 130, 252-262.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1016/j.ecolecon.2016.07.014" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 ------
 
@@ -91,7 +93,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [19][19] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar, N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M. (2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences. 39.
-<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1017/S0140525X1400106X" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1017/S0140525X1400106X" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
  
@@ -129,10 +131,12 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [11][11] <strong>Ross, C.T.</strong>, and Winterhalder, B. (2015). A hierarchical Bayesian analysis of parasite prevalence and socio-cultural outcomes: The mediating role of structural racism and sanitation infrastructure. American Journal of Human Biology. 28 (1), 74-89.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1002/ajhb.22757" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
 [10][10] <strong>Ross, C.T.</strong>, Joyas Campino, P., and Winterhalder, B. (2015). Inter-ethnic transfer and cultural evolution of female genital modification in the African diaspora and Indigenous populations of Colombia. Human Nature. 26 (4) 351-377.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1007/s12110-015-9234-7" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
