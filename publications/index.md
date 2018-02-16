@@ -69,7 +69,8 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 [20][20] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar, N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M. (2015). Cultural group selection follows Darwin’s classic syllogism for the operation of selection [Author’s Reply]. Behavioral and Brain Sciences. 39.
 
 [19][19] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar, N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M. (2015). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences. 39.
-
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1017/S0140525X1400106X" data-hide-no-mentions="true" class="altmetric-embed"></div>
+ 
 [18][18] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). The Origins and Maintenance of Female Genital Modification across Africa. Human Nature. 27 (2), 173-200. 
 
 [17][17] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Winterhalder, B., Uehara, R., Headland, J., and Headland, T. (2015). Bayesian analysis of Agta demography through the transition from foragers to landless peasantry (eastern Luzon, Philippines). Evolution and Human Behavior.  37 (5), 350-365.
