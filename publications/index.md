@@ -46,7 +46,8 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
-
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+  
 [29][29] Paul L. Hooper, P. L., <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., ..., Gavrilets, S. (2017) Humans have small sex differences in reproductive skew compared to non-human mammals. In Review. 
 
 [28][28] Oh, S.Y., <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., and Bowles, S. (2017). The Decline of Polygyny: An Interpretation. In Review.
