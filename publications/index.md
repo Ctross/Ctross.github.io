@@ -73,13 +73,13 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
  
 [18][18] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). The Origins and Maintenance of Female Genital Modification across Africa. Human Nature. 27 (2), 173-200. 
 
-[17][17] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Winterhalder, B., Uehara, R., Headland, J., and Headland, T. (2015). Bayesian analysis of Agta demography through the transition from foragers to landless peasantry (eastern Luzon, Philippines). Evolution and Human Behavior.  37 (5), 350-365.
+[17][17] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Winterhalder, B., Uehara, R., Headland, J., and Headland, T. (2015). Bayesian analysis of Agta demography through the transition from foragers to landless peasantry (eastern Luzon, Philippines). Evolution and Human Behavior.  37 (5), 350-365. <div data-badge-popover="left" data-badge-type="1" data-doi="S1090-5138(16)30012-5" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-[16][16] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. 31 (1), 231-232.
+[16][16] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. 31 (1), 231-232. <div data-badge-popover="left" data-badge-type="1" data-doi="10.1111/socf.12233" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-[15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. 10 (11), e0141854.
+[15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. 10 (11), e0141854. <div data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<div data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 [14][14] Roodgar, M., <strong>Ross, C.T.</strong>, Tarara, R., Lowenstine, L., Dandekar, S., and Smith, D.G. Gene expression and TB pathogenesis in rhesus macaques: NR2C2,(TR4), CD40, CD40L, Fas (CD95), FASL(CD95L), IL7, NRAMP, and TNF-alpha are host genetic markers in peripheral blood mononuclear cells that are associated with severity of TB lesions. Infection, Genetics, and Evolution. 36, 396-409.
 
