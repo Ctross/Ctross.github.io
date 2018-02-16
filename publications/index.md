@@ -96,6 +96,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
  
 [18][18] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Strimling, P., Lindenfors, P., and Ericksen, K. (2015). The Origins and Maintenance of Female Genital Modification across Africa. Human Nature. 27 (2), 173-200.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1007/s12110-015-9244-5" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
@@ -111,7 +112,6 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
 [15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. 10 (11), e0141854. 
 <div data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
@@ -120,6 +120,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [13][13] <strong>Ross, C.T.</strong>, and Winterhalder, B. (20015). Sit-and-wait versus active search hunting: A behavioral ecological model of hunting strategies. Journal of Theoretical Biology. 387, 76-87.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1016/j.jtbi.2015.09.022" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
