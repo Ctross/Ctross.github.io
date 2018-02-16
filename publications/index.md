@@ -76,7 +76,8 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 [16][16] <strong>Ross, C.T. </strong>Identifying the drivers of the exceptionally high rates of lethal and racially-biased violence by police in the United States requires geographically-resolved data and analysis. Sociological Forum. 31 (1), 231-232.
 
 [15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. 10 (11), e0141854.
-<div class='altmetric-embed' data-badge-type='medium-donut' data-badge-details='right' data-doi='10.1136/bmj.39471.430451.BE'></div>
+
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 [14][14] Roodgar, M., <strong>Ross, C.T.</strong>, Tarara, R., Lowenstine, L., Dandekar, S., and Smith, D.G. Gene expression and TB pathogenesis in rhesus macaques: NR2C2,(TR4), CD40, CD40L, Fas (CD95), FASL(CD95L), IL7, NRAMP, and TNF-alpha are host genetic markers in peripheral blood mononuclear cells that are associated with severity of TB lesions. Infection, Genetics, and Evolution. 36, 396-409.
 
