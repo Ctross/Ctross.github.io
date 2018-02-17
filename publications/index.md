@@ -208,11 +208,8 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
  <span data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></span>
 <a id="button" href="#popup">Bibtex</a>
 <span id="popup" style="text-align:center;">
-  <a id="close" href="#">X</a>
-  <h2>Custom  CSS Popup Box</h2>  
-Popup using the <span style="color:#DF7401;">:target</span> and transition with opacity.
-  <br>
-  <br>
+<a id="close" href="#">X</a>
+Blahhh
 </span>
 
 ------
