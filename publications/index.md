@@ -48,92 +48,188 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
   
-<script>
-// Get the modal
-var modal = document.getElementById('myModal');
-
-// Get the button that opens the modal
-var btn = document.getElementById("myBtn");
-
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-
-// When the user clicks the button, open the modal 
-btn.onclick = function() {
-    modal.style.display = "block";
-}
-
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
-}
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-}
-</script>
-
 <head>
 <style>
-#button
-{
-    background-color: #4CAF50; 
-    border: none;
-    color: white;
-    padding: 2px 37px;
-    text-align: center;
-    text-decoration: none;
-    display: inline;
-    font-size: 12px;
-    border-radius: 4px;
-      -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,900);
+@import url(https://fonts.googleapis.com/css?family=Audiowide);
+
+$lato: 'Lato', sans-serif;
+
+//color
+$yellow: #FFD300; 
+$white: #f2f1f1;
+$black: #000000;
+$black-light: #5E5E5E;
+
+//font weights:
+$thin: 300;
+$normal: 400;
+$bold: 900;
+
+
+/*==================================== 
+  Some styles to spruce up the demo
+=====================================*/ 
+
+body {
+  background: $white;
+  color: $black-light; 
+  font-family: $lato;
+  font-weight: $thin;
+  text-shadow: 1px 1px 1px #fff;
+  text-align: center;
 }
 
-#button:hover
-{
-    background-color: #4CAF50; /* Green */
-    color: white;
+h1 { 
+    font-size: 1.5em;
+    font-size: 7vw;
+    line-height: 1.2; 
+    margin: 0;
+    
+    @include bp(500) {
+        font-size: 2.25em;
+        font-size: 7vw;
+    }
+  
+    @include bp(1000) {
+        font-size: 4.5em;
+    }
 }
 
-#modal {
-    display: none; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
-    left: 0;
-    top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+h2 {
+    font-size: 1em;
+    line-height: 1.2;
+    margin: 1.414em 0 0.5em;
+    
+    @include bp(500) {
+        font-size: 1.5em;
+    }
+    
+    @include bp(800) {
+        font-size: 1.8em;
+    }
 }
 
-#modal-content {
-    background-color: #fefefe;
-    margin: 15% auto; /* 15% from the top and centered */
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%; /* Could be more or less, depending on screen size */
+h1 { 
+  color: $black;
+  font-family: "Audiowide", cursive;
+  font-weight: $bold;
+  margin: 0.5em 0 2.5em;
+  span {
+      color:$yellow;
+  }
 }
 
-#close {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
+.wrap {
+  padding: 1em;
+  text-align: center;
+  @include bp(700) { padding: 1em 2em; }
 }
 
-#close:hover,
-#close:focus {
-    color: black;
-    text-decoration: none;
-    cursor: pointer;
-} 
 
+/*==================================== 
+  Our Modal Window styles
+=====================================*/
+.modal {
+  background: #fff;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+  display: inline-block;
+  padding: 1em;
+}
+@media (min-width: 43.75em) {
+  .modal {
+    padding: 1.5em;
+  }
+}
+.modal > label {
+  background: #FFD300;
+  border: 1px solid #f0c600;
+  border-radius: .2em;
+  color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.75em 1.5em;
+  text-shadow: 1px 1px 1px #fff;
+  transition: all 0.55s;
+}
+.modal > label:hover {
+  transform: scale(0.97);
+}
+.modal__overlay {
+  background: #000000;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  text-align: center;
+  text-shadow: none;
+  top: 0;
+  z-index: 600;
+}
+.modal__wrap {
+  padding: 1em 0;
+  position: relative;
+  margin: 0 auto;
+  max-width: 500px;
+  width: 90%;
+}
+@media (min-width: 50em) {
+  .modal__wrap {
+    padding: 1.75em;
+  }
+}
+@media (min-height: 37.5em) {
+  .modal__wrap {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -80%);
+  }
+}
+.modal__wrap label {
+  background: #FFD300;
+  border-radius: 50%;
+  color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  height: 1.5em;
+  line-height: 1.5;
+  position: absolute;
+  right: .5em;
+  top: .5em;
+  width: 1.5em;
+}
+.modal__wrap h2 {
+  color: #FFD300;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+}
+.modal__wrap p {
+  color: #FFD300;
+  text-align: justify;
+}
+.modal input:focus ~ label {
+  transform: scale(0.97);
+}
+
+input {
+  position: absolute;
+  top: -1000px;
+}
+
+.modal__overlay {
+  opacity: 0;
+  transform: scale(0.5);
+  transition: all 0.75s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  z-index: -100;
+}
+
+input:checked ~ .modal__overlay {
+  opacity: 1;
+  transform: scale(1);
+  z-index: 800;
+}
 </style>
 </head>
 
@@ -207,13 +303,19 @@ window.onclick = function(event) {
 
  <span data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></span>
  
-<button id="myBtn">Bibtex</button>
-<div id="myModal" class="modal">
-<div class="modal-content">
-<span class="close">&times;</span>
-<p>Some text in the Modal..</p>
+<!--Start of Modal -->
+<div class="modal">
+    <input id="modal__trigger" type="checkbox" />
+    <label for="modal__trigger">Launch Modal</label>
+    <div class="modal__overlay" role="dialog" aria-labelledby="modal__title" aria-describedby="modal_desc">
+        <div class="modal__wrap">
+            <label for="modal__trigger">&#10006;</label>
+            <h2 id="modal__title">This is your modal content</h2>
+            <p id="modal__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac laoreet elit. Phasellus dignissim purus vitae urna cursus, quis congue ligula tristique. Ut nec blandit risus. Donec at orci ut justo venenatis viverra. Suspendisse in volutpat lacus. In enim est, dapibus eget ipsum sed, suscipit ultrices diam.</p>
+        </div>
+    </div>
 </div>
-</div> 
+<!--End of Modal -->
 
 ------
 
