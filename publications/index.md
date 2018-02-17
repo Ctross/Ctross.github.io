@@ -99,7 +99,6 @@ window.onclick = function(event) {
     color: white;
 }
 
- /* The Modal (background) */
 #modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
@@ -113,7 +112,6 @@ window.onclick = function(event) {
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 }
 
-/* Modal Content/Box */
 #modal-content {
     background-color: #fefefe;
     margin: 15% auto; /* 15% from the top and centered */
@@ -122,7 +120,6 @@ window.onclick = function(event) {
     width: 80%; /* Could be more or less, depending on screen size */
 }
 
-/* The Close Button */
 #close {
     color: #aaa;
     float: right;
@@ -209,18 +206,13 @@ window.onclick = function(event) {
 [15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. 10 (11), e0141854. 
 
  <span data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></span>
- <!-- Trigger/Open The Modal -->
-<button id="myBtn">Open Modal</button>
-
-<!-- The Modal -->
+ 
+<button id="myBtn">Bibtex</button>
 <div id="myModal" class="modal">
-
-  <!-- Modal content -->
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Some text in the Modal..</p>
-  </div>
-
+<div class="modal-content">
+<span class="close">&times;</span>
+<p>Some text in the Modal..</p>
+</div>
 </div> 
 
 ------
