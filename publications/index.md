@@ -51,6 +51,15 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 <script src="jquery.simple-popup.min.js"></script>  
 <link href="jquery.simple-popup.css" rel="stylesheet" type="text/css" />
 
+<script>            
+ $(document).ready(function() {
+ $("a.one").on("click", function(e) {
+ e.preventDefault();
+ $(this).simplePopup();
+   });
+   });
+ </script>  
+ 
 ------
 
 [29][29] Paul L. Hooper, P. L., <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., ..., Gavrilets, S. (2017) Humans have small sex differences in reproductive skew compared to non-human mammals. In Review. 
