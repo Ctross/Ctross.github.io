@@ -49,6 +49,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
 ------
 
@@ -122,19 +123,10 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
  
 <div class="container">
 <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Bibtex</button>
-
-<div class="modal fade" id="myModal" role="dialog">
-<div class="modal-dialog">
- <div class="modal-content">
- <div class="modal-body">
-   <p>Some text in the modal.</p>
- </div>
- </div>
- </div>
-  </div>
-  
-</div>
-
+ <div class="modal fade" id="myModal" role="dialog"><div class="modal-dialog"><div class="modal-content">
+    <div class="modal-body">
+     <p>Some text in the modal.</p>
+ </div> </div> </div>  </div></div>
 
 ------
 
