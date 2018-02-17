@@ -49,7 +49,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
 ------
 
@@ -122,10 +122,9 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
  <span data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></span>
  
 <span class="container">
- <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Bibtex</button>
- <div class="modal fade" id="myModal" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-body">
- <p>Bibbbb</p>
- </div></div></div></div>
+<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Bibtex</button> <div class="modal fade" id="myModal" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-body">
+<p>Bibbbb</p>
+</div></div></div></div>
 </span>
 
 ------
