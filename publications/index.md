@@ -51,19 +51,14 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 <style>
 #button
 {
-  position:relative;
-  top:100px;
-  left:50vw;
-  margin-left:-30px;
-  width:60px;
-  font-size:16px;
-  padding:20px;
-  background-color:white;
-  border-radius:10px;
-  font-family:arial;
-  text-decoration:none;
-  font-weight:bold;
-  color:black;
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
 
 #button:hover
