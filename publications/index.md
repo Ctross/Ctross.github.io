@@ -47,6 +47,9 @@ permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script src="jquery.js"></script> 
+<script src="jquery.simple-popup.min.js"></script>  
+<link href="jquery.simple-popup.css" rel="stylesheet" type="text/css" />
 
 ------
 
@@ -117,6 +120,8 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 [15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. 10 (11), e0141854. 
 
  <span data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></span>
+ 
+  <a class="open-popup-link" data-content="Hey there!">Click</a>
  
 ------
 
