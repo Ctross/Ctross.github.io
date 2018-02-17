@@ -54,18 +54,20 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
     background-color: #4CAF50; 
     border: none;
     color: white;
-    padding: 3px 37px;
+    padding: 2px 37px;
     text-align: center;
     text-decoration: none;
     display: inline;
     font-size: 12px;
     border-radius: 4px;
+      -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
 }
 
 #button:hover
 {
-  background-color:#EFF1F3;
-  color:#D77A61;
+    background-color: #4CAF50; /* Green */
+    color: white;
 }
 
 #popup
