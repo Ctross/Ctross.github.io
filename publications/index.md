@@ -49,11 +49,6 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
   <head>
 <style>
-body
-{
-  background-color:#D77A61;
-}
-
 #button
 {
   position:relative;
