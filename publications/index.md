@@ -54,10 +54,10 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
     background-color: #4CAF50; 
     border: none;
     color: white;
-    padding: 2px 40px;
+    padding: 2px 38px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
     font-size: 12px;
     border-radius: 6px;
 }
