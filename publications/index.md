@@ -79,6 +79,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [22][22] <strong>Ross, C.T. </strong> (2017). Digging deeper: population-level racial disparities, exposure to police victimisation and psychological trauma. Epidemiology and Psychiatric Sciences 11, 1-3.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1017/S2045796017000130" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
@@ -89,6 +90,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [20][20] Richerson, P., Baldini, R., Bell A., Demps, K., Frost, K., Hillis, V., Mathew, S., Naar, N., Newson, L., Newton, E., <strong>Ross, C.T.</strong>, Smaldino, P., Waring, T., and Zimmerman, M. (2015). Cultural group selection follows Darwin’s classic syllogism for the operation of selection [Author’s Reply]. Behavioral and Brain Sciences. 39.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1017/S0140525X15000606" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
@@ -118,6 +120,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [14][14] Roodgar, M., <strong>Ross, C.T.</strong>, Tarara, R., Lowenstine, L., Dandekar, S., and Smith, D.G. Gene expression and TB pathogenesis in rhesus macaques: NR2C2,(TR4), CD40, CD40L, Fas (CD95), FASL(CD95L), IL7, NRAMP, and TNF-alpha are host genetic markers in peripheral blood mononuclear cells that are associated with severity of TB lesions. Infection, Genetics, and Evolution. 36, 396-409.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1016/j.meegid.2015.10.010" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
@@ -127,6 +130,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [12][12] Winterhalder, B., Puleston, C., and <strong>Ross, C.T. </strong>(2015). Production risk, inter-annual food storage by households, and population-level consequences in prehistoric agrarian societies. Environmental Archaeology: The Journal of Human Palaeoecology. 20 (4), 337-348.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1179/1749631415Y.0000000025" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
@@ -141,20 +145,24 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [9][9] Roodgar, M., <strong>Ross, C.T.</strong>, Kenyon, N., Marcelino, G., and Smith, D.G. (2014). iNOS regulatory region variation in non-human primates. Infection, Genetics, and Evolution. 31, 236-244.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1016/j.meegid.2015.01.015" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
 [8][8] <strong>Ross, C.T.</strong>, Roodgar, M., and Smith, D.G. (2015). Evolutionary distance of amino acid
-sequence orthologs across macaque subspecies: Candidate genes for SIV resistance in Chinese rhesus macaques. PLOS One. 10 (4), e0123624. 
+sequence orthologs across macaque subspecies: Candidate genes for SIV resistance in Chinese rhesus macaques. PLOS One. 10 (4), e0123624.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0123624" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
 [7][7] <strong>Ross, C.T.</strong>, and Richerson, P.J. (2014). New frontiers in the study of human cultural and
 genetic evolution. Current Opinion in Genetics and Development.  29, 103-109.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1016/j.gde.2014.08.014" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
 [6][6] <strong>Ross, C.T.</strong>, Weise, J.A., Bonnar, S., Nolin, D., Satkoski Trask, J., Smith, D.G., ... and Kanthaswamy, S. (2014). An empirical comparison of short tandem repeats (STRs) and single nucleotide polymorphisms (SNPs) for relatedness estimation in Chinese rhesus macaques (Macaca mulatta). American Journal of Primatology. 76 (4), 313-324.
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1002/ajp.22235" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ------
 
