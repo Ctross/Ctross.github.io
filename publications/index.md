@@ -63,6 +63,14 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [29][29] Paul L. Hooper, P. L., <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., ..., Gavrilets, S. (2017) Humans have small sex differences in reproductive skew compared to non-human mammals. In Review. 
+<a href="#" data-reveal-id="myModal">Click Me For A Modal</a>
+
+<div id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+  <h2 id="modalTitle">Awesome. I have it.</h2>
+  <p class="lead">Your couch.  It is mine.</p>
+  <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
+  <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
 
 ------
 
