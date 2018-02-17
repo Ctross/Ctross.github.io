@@ -70,73 +70,75 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
     color: white;
 }
 
-#popup
-{
-  position:relative;
-  top:25vh;
-  left:25vw;
-  width:50vw;
-  background-color:#EFF1F3;
-  color:black;
-  -khtml-opacity:0;
-  -moz-opacity : 0;
-  -ms-filter: "alpha(opacity=0)";
-  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
-  filter : alpha(opacity=0);
-  opacity : 0;
-  padding:20px;
-  border-style:solid;
-  border-radius:15px;
-  border-color:#bbd8b3;
-  transition:all 1s;
-  -webkit-transition:all 1s;
+ /* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 }
 
-#popup:target
-{
-  -khtml-opacity:1;
-  -moz-opacity : 1;
-  -ms-filter: "alpha(opacity=100)";
-  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=100);
-  filter : alpha(opacity=100);
-  opacity : 1;
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
 }
 
-/* Bouton fermeture */
-
-#close
-{
-  position:absolute;
-  left:100%;
-  top:-20px;
-  margin-left:-10px;
-  background-color:#EFF1F3;
-  font-size:12px;
-  padding:5px 7px;
-  border-radius:50px;
-  border-style:solid;
-  border-color:#bbd8b3;
-  font-weight:bold;
-  color:#bbd8b3;
-  text-decoration:none;
-  font-family:arial;
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
 }
 
-#close:hover
-{
-  background-color:#EFF1F3;
-  border-color:#bbd8b3;
-  color:#D77A61;
-}
-
-#close:active
-{
-  background-color:#A9F5F2;
-  color:black;
-}
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+} 
 
 </style>
 </head>
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+    modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+
 ------
 
 [29][29] Paul L. Hooper, P. L., <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., ..., Gavrilets, S. (2017) Humans have small sex differences in reproductive skew compared to non-human mammals. In Review. 
@@ -206,10 +208,12 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 [15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. 10 (11), e0141854. 
 
  <span data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></span>
-<a id="button" href="#popup">Bibtex</a>
-<span id="popup" style="text-align:center;">
-<a id="close" href="#">X</a>
-Blahhh
+<button id="myBtn">Bibtex</button>
+<span id="myModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Some text in the Modal..</p>
+  </div>
 </span>
 
 ------
