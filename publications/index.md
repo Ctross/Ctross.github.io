@@ -84,7 +84,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [21][21] <strong>Ross, C.T. </strong>Land-use change, environmental service payments, and non-financial incentives: A case study in Costa Rica. Ecological Economics. 130, 252-262.
-<div data-badge-popover="left" data-badge-type="1" data-doi="10.1016/j.ecolecon.2016.07.014" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1016/j.ecolecon.2016.07.014" data-hide-no-mentions="false" class="altmetric-embed"></div>
 
 
 ------
@@ -105,7 +105,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [17][17] <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., Winterhalder, B., Uehara, R., Headland, J., and Headland, T. (2015). Bayesian analysis of Agta demography through the transition from foragers to landless peasantry (eastern Luzon, Philippines). Evolution and Human Behavior.  37 (5), 350-365. 
-<div data-badge-popover="left" data-badge-type="1" data-doi="S1090-5138(16)30012-5" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="left" data-badge-type="1" data-doi="S1090-5138(16)30012-5" data-hide-no-mentions="false" class="altmetric-embed"></div>
 
 ------
 
@@ -120,7 +120,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [14][14] Roodgar, M., <strong>Ross, C.T.</strong>, Tarara, R., Lowenstine, L., Dandekar, S., and Smith, D.G. Gene expression and TB pathogenesis in rhesus macaques: NR2C2,(TR4), CD40, CD40L, Fas (CD95), FASL(CD95L), IL7, NRAMP, and TNF-alpha are host genetic markers in peripheral blood mononuclear cells that are associated with severity of TB lesions. Infection, Genetics, and Evolution. 36, 396-409.
-<div data-badge-popover="left" data-badge-type="1" data-doi="10.1016/j.meegid.2015.10.010" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1016/j.meegid.2015.10.010" data-hide-no-mentions="false" class="altmetric-embed"></div>
 
 ------
 
@@ -130,7 +130,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [12][12] Winterhalder, B., Puleston, C., and <strong>Ross, C.T. </strong>(2015). Production risk, inter-annual food storage by households, and population-level consequences in prehistoric agrarian societies. Environmental Archaeology: The Journal of Human Palaeoecology. 20 (4), 337-348.
-<div data-badge-popover="left" data-badge-type="1" data-doi="10.1179/1749631415Y.0000000025" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1179/1749631415Y.0000000025" data-hide-no-mentions="false" class="altmetric-embed"></div>
 
 ------
 
@@ -140,7 +140,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [10][10] <strong>Ross, C.T.</strong>, Joyas Campino, P., and Winterhalder, B. (2015). Inter-ethnic transfer and cultural evolution of female genital modification in the African diaspora and Indigenous populations of Colombia. Human Nature. 26 (4) 351-377.
-<div data-badge-popover="left" data-badge-type="1" data-doi="10.1007/s12110-015-9234-7" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1007/s12110-015-9234-7" data-hide-no-mentions="false" class="altmetric-embed"></div>
 
 ------
 
