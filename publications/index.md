@@ -54,12 +54,12 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
     background-color: #4CAF50; 
     border: none;
     color: white;
-    padding: 2px 38px;
+    padding: 3px 37px;
     text-align: center;
     text-decoration: none;
     display: inline;
     font-size: 12px;
-    border-radius: 6px;
+    border-radius: 4px;
 }
 
 #button:hover
@@ -202,17 +202,22 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. 10 (11), e0141854. 
-<div id="outer">
-<div data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<a id="button" href="#popup">Bibtex</a>
+
+    <table>
+       <tr>
+          <td>
+          <div data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
+          <td><a id="button" href="#popup">Bibtex</a>
 <div id="popup" style="text-align:center;">
   <a id="close" href="#">X</a>
   <h2>Custom  CSS Popup Box</h2>  
 Popup using the <span style="color:#DF7401;">:target</span> and transition with opacity.
   <br>
   <br>
-</div>
-</div>
+</div></td>
+       </tr>
+    </table>
+
 ------
 
 [14][14] Roodgar, M., <strong>Ross, C.T.</strong>, Tarara, R., Lowenstine, L., Dandekar, S., and Smith, D.G. Gene expression and TB pathogenesis in rhesus macaques: NR2C2,(TR4), CD40, CD40L, Fas (CD95), FASL(CD95L), IL7, NRAMP, and TNF-alpha are host genetic markers in peripheral blood mononuclear cells that are associated with severity of TB lesions. Infection, Genetics, and Evolution. 36, 396-409.
