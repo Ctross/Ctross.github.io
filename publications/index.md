@@ -47,7 +47,8 @@ permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-  <script>
+  
+<script>
 // Get the modal
 var modal = document.getElementById('myModal');
 
@@ -74,7 +75,8 @@ window.onclick = function(event) {
     }
 }
 </script>
-  <head>
+
+<head>
 <style>
 #button
 {
@@ -98,7 +100,7 @@ window.onclick = function(event) {
 }
 
  /* The Modal (background) */
-.modal {
+#modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
@@ -112,7 +114,7 @@ window.onclick = function(event) {
 }
 
 /* Modal Content/Box */
-.modal-content {
+#modal-content {
     background-color: #fefefe;
     margin: 15% auto; /* 15% from the top and centered */
     padding: 20px;
@@ -121,15 +123,15 @@ window.onclick = function(event) {
 }
 
 /* The Close Button */
-.close {
+#close {
     color: #aaa;
     float: right;
     font-size: 28px;
     font-weight: bold;
 }
 
-.close:hover,
-.close:focus {
+#close:hover,
+#close:focus {
     color: black;
     text-decoration: none;
     cursor: pointer;
