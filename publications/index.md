@@ -54,11 +54,12 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
     background-color: #4CAF50; 
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 5px 30px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    border-radius: 12px;
 }
 
 #button:hover
@@ -202,7 +203,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
 [15][15] <strong>Ross, C.T. </strong>(2015). A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011-2014. PLOS One. 10 (11), e0141854. 
 <div data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<a id="button" href="#popup">Click me</a>
+<a id="button" href="#popup">Bibtex</a>
 
 <div id="popup" style="text-align:center;">
   <a id="close" href="#">X</a>
