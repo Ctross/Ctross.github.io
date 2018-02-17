@@ -66,67 +66,6 @@ $thin: 300;
 $normal: 400;
 $bold: 900;
 
-
-/*==================================== 
-  Some styles to spruce up the demo
-=====================================*/ 
-
-body {
-  background: $white;
-  color: $black-light; 
-  font-family: $lato;
-  font-weight: $thin;
-  text-shadow: 1px 1px 1px #fff;
-  text-align: center;
-}
-
-h1 { 
-    font-size: 1.5em;
-    font-size: 7vw;
-    line-height: 1.2; 
-    margin: 0;
-    
-    @include bp(500) {
-        font-size: 2.25em;
-        font-size: 7vw;
-    }
-  
-    @include bp(1000) {
-        font-size: 4.5em;
-    }
-}
-
-h2 {
-    font-size: 1em;
-    line-height: 1.2;
-    margin: 1.414em 0 0.5em;
-    
-    @include bp(500) {
-        font-size: 1.5em;
-    }
-    
-    @include bp(800) {
-        font-size: 1.8em;
-    }
-}
-
-h1 { 
-  color: $black;
-  font-family: "Audiowide", cursive;
-  font-weight: $bold;
-  margin: 0.5em 0 2.5em;
-  span {
-      color:$yellow;
-  }
-}
-
-.wrap {
-  padding: 1em;
-  text-align: center;
-  @include bp(700) { padding: 1em 2em; }
-}
-
-
 /*==================================== 
   Our Modal Window styles
 =====================================*/
@@ -304,9 +243,9 @@ input:checked ~ .modal__overlay {
  <span data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></span>
  
 <!--Start of Modal -->
-<div class="modal">
+<span class="modal">
     <input id="modal__trigger" type="checkbox" />
-    <label for="modal__trigger">Launch Modal</label>
+    <label for="modal__trigger">Bibtex</label>
     <div class="modal__overlay" role="dialog" aria-labelledby="modal__title" aria-describedby="modal_desc">
         <div class="modal__wrap">
             <label for="modal__trigger">&#10006;</label>
@@ -314,7 +253,7 @@ input:checked ~ .modal__overlay {
             <p id="modal__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac laoreet elit. Phasellus dignissim purus vitae urna cursus, quis congue ligula tristique. Ut nec blandit risus. Donec at orci ut justo venenatis viverra. Suspendisse in volutpat lacus. In enim est, dapibus eget ipsum sed, suscipit ultrices diam.</p>
         </div>
     </div>
-</div>
+</span>
 <!--End of Modal -->
 
 ------
