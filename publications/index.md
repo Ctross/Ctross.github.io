@@ -111,6 +111,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 </style>
 </head>
 
+<html>
 <script>
 // Get the modal
 var modal = document.getElementById('myModal');
@@ -138,6 +139,7 @@ window.onclick = function(event) {
     }
 }
 </script>
+</html>
 
 ------
 
