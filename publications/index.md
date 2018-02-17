@@ -121,12 +121,12 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
  <span data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></span>
  
-<div class="container">
-<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Bibtex</button>
- <div class="modal fade" id="myModal" role="dialog"><div class="modal-dialog"><div class="modal-content">
-    <div class="modal-body">
-     <p>Some text in the modal.</p>
- </div> </div> </div>  </div></div>
+<span class="container">
+ <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Bibtex</button>
+ <div class="modal fade" id="myModal" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-body">
+ <p>Bibbbb</p>
+ </div></div></div></div>
+</span>
 
 ------
 
