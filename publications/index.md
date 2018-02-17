@@ -79,7 +79,7 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [22][22] <strong>Ross, C.T. </strong> (2017). Digging deeper: population-level racial disparities, exposure to police victimisation and psychological trauma. Epidemiology and Psychiatric Sciences 11, 1-3.
-<div data-badge-popover="left" data-badge-type="1" data-doi="10.1017/S2045796017000130" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="left" data-badge-type="1" data-doi="10.1017/S2045796017000130" data-hide-no-mentions="false" class="altmetric-embed"></div>
 
 ------
 
