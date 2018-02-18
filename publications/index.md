@@ -57,16 +57,6 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ------
 
 [29][29] Paul L. Hooper, P. L., <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., ..., Gavrilets, S. (2017) Humans have small sex differences in reproductive skew compared to non-human mammals. In Review. 
-<a href="#" data-reveal-id="myModal">Click Me For A Modal</a>
-
-<!-- Modal HTML embedded directly into document -->
-<div id="ex1" class="modal">
-  <p>Thanks for clicking. That felt good.</p>
-  <a href="#" rel="modal:close">Close</a>
-</div>
-
-<!-- Link to open the modal -->
-<p><a href="#ex1" rel="modal:open">Open Modal</a></p>
 
 ------
 
@@ -134,8 +124,15 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
 
  <span data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></span>
  
-  <a class="open-popup-link" data-content="Hey there!">Click</a>
- 
+<!-- Modal HTML embedded directly into document -->
+<div id="ex1" class="modal">
+  <p>Thanks for clicking. That felt good.</p>
+  <a href="#" rel="modal:close">Close</a>
+</div>
+
+<!-- Link to open the modal -->
+<p><a href="#ex1" rel="modal:open">Open Modal</a></p>
+
 ------
 
 [14][14] Roodgar, M., <strong>Ross, C.T.</strong>, Tarara, R., Lowenstine, L., Dandekar, S., and Smith, D.G. Gene expression and TB pathogenesis in rhesus macaques: NR2C2,(TR4), CD40, CD40L, Fas (CD95), FASL(CD95L), IL7, NRAMP, and TNF-alpha are host genetic markers in peripheral blood mononuclear cells that are associated with severity of TB lesions. Infection, Genetics, and Evolution. 36, 396-409.
