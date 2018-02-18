@@ -47,30 +47,26 @@ permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<script src="jquery.js"></script> 
-<script src="jquery.simple-popup.min.js"></script>  
-<link href="jquery.simple-popup.css" rel="stylesheet" type="text/css" />
+<!-- Remember to include jQuery :) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
-<script>            
- $(document).ready(function() {
- $("a.one").on("click", function(e) {
- e.preventDefault();
- $(this).simplePopup();
-   });
-   });
- </script>  
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
  
 ------
 
 [29][29] Paul L. Hooper, P. L., <strong>Ross, C.T.</strong>, Borgerhoff Mulder, M., ..., Gavrilets, S. (2017) Humans have small sex differences in reproductive skew compared to non-human mammals. In Review. 
 <a href="#" data-reveal-id="myModal">Click Me For A Modal</a>
 
-<div id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
-  <h2 id="modalTitle">Awesome. I have it.</h2>
-  <p class="lead">Your couch.  It is mine.</p>
-  <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
-  <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+<!-- Modal HTML embedded directly into document -->
+<div id="ex1" class="modal">
+  <p>Thanks for clicking. That felt good.</p>
+  <a href="#" rel="modal:close">Close</a>
 </div>
+
+<!-- Link to open the modal -->
+<p><a href="#ex1" rel="modal:open">Open Modal</a></p>
 
 ------
 
