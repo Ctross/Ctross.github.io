@@ -125,10 +125,9 @@ tawkto: true               # Enable tawk.to-Service › More › _config.yml
  <span data-badge-popover="left" data-badge-type="1" data-doi="10.1371/journal.pone.0141854" data-hide-no-mentions="true" class="altmetric-embed"></span>
  
 <!-- Modal HTML embedded directly into document -->
-<div id="ex1" class="modal">
-  <p>Thanks for clicking. That felt good.</p>
-  <a href="#" rel="modal:close">Close</a>
-</div>
+<span id="ex1" class="modal">
+  <p>Blah</p>
+</span>
 
 <!-- Link to open the modal -->
 <p><a href="#ex1" rel="modal:open">Open Modal</a></p>
