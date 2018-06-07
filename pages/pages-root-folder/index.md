@@ -24,4 +24,10 @@ widget3:
   image: pubcover.jpg
   text: 'I maintain a database of pre-prints (to download the PDFs, just click "Raw", after opening the preprint in the GitHub browser), BibTeX citations, abstracts, erratum, and data/code repositiorys for all of my publications.'
 permalink: index.html
+widget3:
+  title: "Publications"
+  url: 'http://codytross.com/feildsite/'
+  image: pubcover.jpg
+  text: 'I maintain a database of pre-prints (to download the PDFs, just click "Raw", after opening the preprint in the GitHub browser), BibTeX citations, abstracts, erratum, and data/code repositiorys for all of my publications.'
+permalink: index.html
 ---
