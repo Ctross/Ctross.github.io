@@ -9,8 +9,8 @@ header:
   image_fullwidth: header_unsplash_12.jpg
   caption: 'Street art in Chapinero, Bogota, Colombia'
 widget1:
-  title: "About Me"
-  url: 'http://codytross.com/about-me/'
+  title: "Feildsites and Database"
+  url: 'http://codytross.com/feildsite/'
   image: profilepicSmall.jpg
   text: 'A little bit about my research, travels, hobbies, and interests.'
 widget2:
@@ -21,12 +21,6 @@ widget2:
 widget3:
   title: "Publications"
   url: 'http://codytross.com/publications/'
-  image: pubcover.jpg
-  text: 'I maintain a database of pre-prints (to download the PDFs, just click "Raw", after opening the preprint in the GitHub browser), BibTeX citations, abstracts, erratum, and data/code repositiorys for all of my publications.'
-permalink: index.html
-widget4:
-  title: "Feildsite and Database"
-  url: 'http://codytross.com/feildsite/'
   image: pubcover.jpg
   text: 'I maintain a database of pre-prints (to download the PDFs, just click "Raw", after opening the preprint in the GitHub browser), BibTeX citations, abstracts, erratum, and data/code repositiorys for all of my publications.'
 permalink: index.html
