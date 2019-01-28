@@ -5,21 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "AME Database"
-teaser: "The AME database is a large, longitiudnal, anthropological and demographic database, containing records from approximately 600 focal interviews with Afrocolombian, Mestizo, and Emberá adults living in 6 different communities inside Colombia.
-
-The database includes: 
-* facial photographs
-* anthropometrics (height, weight, and grip strength...)
-* demographic interviews (reprodutive histories, marriage histories, survival outcomes for children, parents, and siblings...)
-* wealth records (household invetories, land holdings, livestock holdings, income, and labor...)
-* religion and religiosity interviews (private and public religiosity measures, free-listing of god's likes and dislikes...)
-* health information (medial access, illness histories, pyshological well-being surveys...)
-* social networks (friendships, food and money transfers, co-working partners, emergency contacts...)
-* education records (survey data, recordings of reading abilities at differing levels of dificulty...)
-* vignettes concerning socio-politcal beliefs (belief about conflict resoution, conservation, political affiliations...)
-
-
-"
+teaser: "The AME database is a large, longitiudnal, anthropological and demographic database, containing records from approximately 600 focal interviews with Afrocolombian, Mestizo, and Emberá adults living in 6 different communities inside Colombia."
 categories:
   - 
 tags:
@@ -60,6 +46,17 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 ---
+  
+ The database includes: 
+* facial photographs
+* anthropometrics (height, weight, and grip strength...)
+* demographic interviews (reprodutive histories, marriage histories, survival outcomes for children, parents, and siblings...)
+* wealth records (household invetories, land holdings, livestock holdings, income, and labor...)
+* religion and religiosity interviews (private and public religiosity measures, free-listing of god's likes and dislikes...)
+* health information (medial access, illness histories, pyshological well-being surveys...)
+* social networks (friendships, food and money transfers, co-working partners, emergency contacts...)
+* education records (survey data, recordings of reading abilities at differing levels of dificulty...)
+* vignettes concerning socio-politcal beliefs (belief about conflict resoution, conservation, political affiliations...)
 
 [IP1][1] <strong>Ross, C.T.</strong> and Beheim, B. The Cultural Evolution of Chess Strategy.
 
