@@ -19,7 +19,7 @@
   - title: "Twitter"
     url: "http://www.twitter.com/mindismoving"
 
-- title: Ongoing Projects
+- title: Open Projects
   url: "/projects/"
   side: left
   dropdown:
@@ -30,6 +30,10 @@
   
 - title: Publications
   url: "/publications/"
+  side: left
+  
+  - title: AME Database
+  url: "/AME/"
   side: left
  
 - title: "Search"
