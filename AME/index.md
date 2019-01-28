@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "AME Database"
-teaser: "The AME database is a large anthropological, socio-ecological and demographic database, containing records from approximately 600 focal interviews with adults. The database includes: facial photographs, anthropometrics (height, weight, and grip strength...), demographic interviews (reprodutive histories, marriage histories, survival outcomes for children, parents, and siblings...), wealth (household invetories, land holdings, livestock holdings, income, and labor...), religion and religiosity interviews (private and public religiosity measures, free-listing of god's likes and dislikes...), 
+teaser: "The AME database is a large anthropological, socio-ecological and demographic database, containing records from approximately 600 focal interviews with Afrocolombian, Mestizo, and Emberá adults living in 6 different communities inside Colombia. The database includes: facial photographs, anthropometrics (height, weight, and grip strength...), demographic interviews (reprodutive histories, marriage histories, survival outcomes for children, parents, and siblings...), wealth (household invetories, land holdings, livestock holdings, income, and labor...), religion and religiosity interviews (private and public religiosity measures, free-listing of god's likes and dislikes...), 
 categories:
   - 
 tags:
